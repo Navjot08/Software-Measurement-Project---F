@@ -1,5 +1,5 @@
 Tools used: Jacoco and Intellij
-Stepsfor extraction: - install jacoco plugin on intellij
+Configurations: - install jacoco plugin on intellij
                      - update the POM file to include necessary plugins
                      -  edit configurations to set jacoco as the tool for code coverage
                      -  mvn clean
