@@ -1,10 +1,14 @@
 Tools used: Jacoco and Intellij
 Configurations: - install jacoco plugin on intellij
                      - update the POM file to include necessary plugins
-                     -  edit configurations to set jacoco as the tool for code coverage
-                     -  mvn clean
-                     - mvn intall
-                     - mvn site
+                     -  edit configurations to set jacoco as the tool for code coverage(code coverage runner)
+Commands used: mvn clean
+              - mvn intall
+              - mvn site
+              
+              
+        
+                     
                      
                   
            
