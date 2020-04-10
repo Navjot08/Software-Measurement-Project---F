@@ -1,0 +1,2056 @@
+Kind,Name,Cyclomatic
+File,"AddressBook.xml",0
+File,"AddressBook.xml",0
+File,"AttributeDefinedConstructor.xml",0
+File,"AttributeDefinedConstructor.xml",0
+File,"BasicConstructor.xml",0
+File,"BasicConstructor.xml",0
+File,"Catalog.xml",0
+File,"Catalog.xml",0
+File,"Channel.xml",0
+File,"Channel.xml",0
+File,"ConstructorWithAttributeAndElement.xml",0
+File,"ConstructorWithAttributeAndElement.xml",0
+File,"Employee.xml",0
+File,"Employee.xml",0
+File,"ObjectTestImplRuleInfo.xml",0
+File,"ObjectTestImplRuleInfo.xml",0
+File,"Person.xml",0
+File,"Person.xml",0
+File,"ServletBean.xml",0
+File,"ServletBean.xml",0
+File,"Test1.xml",0
+File,"Test1.xml",0
+File,"Test10.xml",0
+File,"Test10.xml",0
+File,"Test11.xml",0
+File,"Test11.xml",0
+File,"Test12-01.xml",0
+File,"Test12-01.xml",0
+File,"Test12-02.xml",0
+File,"Test12-02.xml",0
+File,"Test12.xml",0
+File,"Test12.xml",0
+File,"Test13-01.xml",0
+File,"Test13-01.xml",0
+File,"Test13-02.xml",0
+File,"Test13-02.xml",0
+File,"Test2.xml",0
+File,"Test2.xml",0
+File,"Test3.xml",0
+File,"Test3.xml",0
+File,"Test4.xml",0
+File,"Test4.xml",0
+File,"Test5.xml",0
+File,"Test5.xml",0
+File,"Test6.xml",0
+File,"Test6.xml",0
+File,"Test7.xml",0
+File,"Test7.xml",0
+File,"Test8.xml",0
+File,"Test8.xml",0
+File,"Test9.xml",0
+File,"Test9.xml",0
+File,"annotations.xml",0
+File,"async.xml",0
+File,"atom-content.xml",0
+File,"atom-content.xml",0
+File,"atom-rules.xml",0
+File,"atom-rules.xml",0
+File,"bin.xml",0
+File,"binder.xml",0
+File,"changes.xml",0
+File,"checkstyle-suppressions.xml",0
+File,"compound.xml",0
+File,"constructor-testrules.xml",0
+File,"constructor-testrules.xml",0
+File,"constructor.xml",0
+File,"core.xml",0
+File,"document-with-relative-dtd.xml",0
+File,"document-with-relative-dtd.xml",0
+File,"download_digester.xml",0
+File,"example.xml",0
+File,"example.xml",0
+File,"example.xml",0
+File,"example.xml",0
+File,"extractPropertyNameFromAttribute-rules.xml",0
+File,"extractPropertyNameFromAttribute-rules.xml",0
+File,"extractPropertyNameFromAttribute.xml",0
+File,"extractPropertyNameFromAttribute.xml",0
+File,"index.xml",0
+File,"issue-tracking.xml",0
+File,"mail-lists.xml",0
+Public Constructor,"org.apache.commons.digester3.AbstractMethodRule.AbstractMethodRule",1
+Public Constructor,"org.apache.commons.digester3.AbstractMethodRule.AbstractMethodRule",1
+Public Constructor,"org.apache.commons.digester3.AbstractMethodRule.AbstractMethodRule",1
+Public Method,"org.apache.commons.digester3.AbstractMethodRule.begin",2
+Public Method,"org.apache.commons.digester3.AbstractMethodRule.end",2
+Protected Abstract Method,"org.apache.commons.digester3.AbstractMethodRule.getChild",0
+Protected Abstract Method,"org.apache.commons.digester3.AbstractMethodRule.getParent",0
+Private Method,"org.apache.commons.digester3.AbstractMethodRule.invoke",5
+Public Method,"org.apache.commons.digester3.AbstractMethodRule.isExactMatch",1
+Public Method,"org.apache.commons.digester3.AbstractMethodRule.isFireOnBegin",1
+Public Method,"org.apache.commons.digester3.AbstractMethodRule.setExactMatch",1
+Public Method,"org.apache.commons.digester3.AbstractMethodRule.setFireOnBegin",1
+Public Method,"org.apache.commons.digester3.AbstractMethodRule.toString",1
+Public Abstract Method,"org.apache.commons.digester3.AbstractObjectCreationFactory.createObject",0
+Public Method,"org.apache.commons.digester3.AbstractObjectCreationFactory.getDigester",1
+Public Method,"org.apache.commons.digester3.AbstractObjectCreationFactory.setDigester",1
+Public Method,"org.apache.commons.digester3.AbstractRulesImpl.add",3
+Public Method,"org.apache.commons.digester3.AbstractRulesImpl.getDigester",1
+Public Method,"org.apache.commons.digester3.AbstractRulesImpl.getNamespaceURI",1
+Protected Abstract Method,"org.apache.commons.digester3.AbstractRulesImpl.registerRule",0
+Public Method,"org.apache.commons.digester3.AbstractRulesImpl.setDigester",1
+Public Method,"org.apache.commons.digester3.AbstractRulesImpl.setNamespaceURI",1
+Public Constructor,"org.apache.commons.digester3.Address.Address",1
+Public Constructor,"org.apache.commons.digester3.Address.Address",1
+Public Method,"org.apache.commons.digester3.Address.getCity",1
+Public Method,"org.apache.commons.digester3.Address.getState",1
+Public Method,"org.apache.commons.digester3.Address.getStreet",1
+Public Method,"org.apache.commons.digester3.Address.getType",1
+Public Method,"org.apache.commons.digester3.Address.getZipCode",1
+Public Method,"org.apache.commons.digester3.Address.setCity",1
+Public Method,"org.apache.commons.digester3.Address.setEmployee",1
+Public Method,"org.apache.commons.digester3.Address.setState",1
+Public Method,"org.apache.commons.digester3.Address.setStreet",1
+Public Method,"org.apache.commons.digester3.Address.setType",1
+Public Method,"org.apache.commons.digester3.Address.setZipCode",1
+Public Method,"org.apache.commons.digester3.Address.toString",1
+Public Constructor,"org.apache.commons.digester3.AlphaBean.AlphaBean",1
+Public Constructor,"org.apache.commons.digester3.AlphaBean.AlphaBean",1
+Public Method,"org.apache.commons.digester3.AlphaBean.getChild",1
+Public Method,"org.apache.commons.digester3.AlphaBean.getName",1
+Public Method,"org.apache.commons.digester3.AlphaBean.getParent",1
+Public Method,"org.apache.commons.digester3.AlphaBean.setChild",1
+Public Method,"org.apache.commons.digester3.AlphaBean.setName",1
+Public Method,"org.apache.commons.digester3.AlphaBean.setParent",1
+Public Method,"org.apache.commons.digester3.AlphaBean.toString",1
+Protected Method,"org.apache.commons.digester3.AsyncReaderTestCase.(Anon_1).configure",1
+Public Method,"org.apache.commons.digester3.AsyncReaderTestCase.parseFromClasspathURL",1
+Public Method,"org.apache.commons.digester3.AsyncReaderTestCase.parseFromFile",1
+Public Method,"org.apache.commons.digester3.AsyncReaderTestCase.parseFromInputSource",1
+Public Method,"org.apache.commons.digester3.AsyncReaderTestCase.parseFromInputStream",1
+Public Method,"org.apache.commons.digester3.AsyncReaderTestCase.parseFromReader",1
+Public Method,"org.apache.commons.digester3.AsyncReaderTestCase.parseFromUri",1
+Public Method,"org.apache.commons.digester3.AsyncReaderTestCase.setUp",1
+Public Method,"org.apache.commons.digester3.AsyncReaderTestCase.tearDown",1
+Private Method,"org.apache.commons.digester3.AsyncReaderTestCase.verify",1
+Public Constructor,"org.apache.commons.digester3.BeanPropertySetterRule.BeanPropertySetterRule",1
+Public Constructor,"org.apache.commons.digester3.BeanPropertySetterRule.BeanPropertySetterRule",1
+Public Method,"org.apache.commons.digester3.BeanPropertySetterRule.begin",2
+Public Method,"org.apache.commons.digester3.BeanPropertySetterRule.body",2
+Public Method,"org.apache.commons.digester3.BeanPropertySetterRule.end",6
+Public Method,"org.apache.commons.digester3.BeanPropertySetterRule.finish",1
+Protected Method,"org.apache.commons.digester3.BeanPropertySetterRule.getBodyText",1
+Public Method,"org.apache.commons.digester3.BeanPropertySetterRule.getPropertyName",1
+Public Method,"org.apache.commons.digester3.BeanPropertySetterRule.setPropertyNameFromAttribute",1
+Public Method,"org.apache.commons.digester3.BeanPropertySetterRule.toString",1
+Public Method,"org.apache.commons.digester3.BeanPropertySetterRuleTestCase.extractPropertyNameFromAttribute",1
+Protected Method,"org.apache.commons.digester3.BeanPropertySetterRuleTestCase.extractPropertyNameFromAttribute.(Anon_6).configure",1
+Public Method,"org.apache.commons.digester3.BeanPropertySetterRuleTestCase.testAutomaticallySetProperties",1
+Protected Method,"org.apache.commons.digester3.BeanPropertySetterRuleTestCase.testAutomaticallySetProperties.(Anon_5).configure",1
+Public Method,"org.apache.commons.digester3.BeanPropertySetterRuleTestCase.testDigesterBodyTextStack",1
+Protected Method,"org.apache.commons.digester3.BeanPropertySetterRuleTestCase.testDigesterBodyTextStack.(Anon_2).configure",1
+Public Method,"org.apache.commons.digester3.BeanPropertySetterRuleTestCase.testDigesterRuleCallOrder",1
+Protected Method,"org.apache.commons.digester3.BeanPropertySetterRuleTestCase.testDigesterRuleCallOrder.(Anon_1).configure",1
+Public Method,"org.apache.commons.digester3.BeanPropertySetterRuleTestCase.testSetGivenProperty",1
+Protected Method,"org.apache.commons.digester3.BeanPropertySetterRuleTestCase.testSetGivenProperty.(Anon_3).configure",1
+Public Method,"org.apache.commons.digester3.BeanPropertySetterRuleTestCase.testSetUnknownProperty",4
+Protected Method,"org.apache.commons.digester3.BeanPropertySetterRuleTestCase.testSetUnknownProperty.(Anon_4).configure",1
+Private Method,"org.apache.commons.digester3.BeanPropertySetterRuleTestCase.xmlTestReader",1
+Public Constructor,"org.apache.commons.digester3.BetaBean.BetaBean",1
+Public Method,"org.apache.commons.digester3.BetaBean.getChild",1
+Public Method,"org.apache.commons.digester3.BetaBean.getName",1
+Public Method,"org.apache.commons.digester3.BetaBean.getParent",1
+Public Method,"org.apache.commons.digester3.BetaBean.setChild",1
+Public Method,"org.apache.commons.digester3.BetaBean.setName",1
+Public Method,"org.apache.commons.digester3.BetaBean.setParent",1
+Public Method,"org.apache.commons.digester3.BetaBean.toString",1
+Public Constructor,"org.apache.commons.digester3.Box.Box",1
+Public Method,"org.apache.commons.digester3.Box.addChild",1
+Public Method,"org.apache.commons.digester3.Box.getChildren",1
+Public Method,"org.apache.commons.digester3.Box.getId",1
+Public Method,"org.apache.commons.digester3.Box.getIds",2
+Public Method,"org.apache.commons.digester3.Box.setId",1
+Public Method,"org.apache.commons.digester3.Box.toString",2
+Public Constructor,"org.apache.commons.digester3.CallMethodRule.CallMethodRule",1
+Public Constructor,"org.apache.commons.digester3.CallMethodRule.CallMethodRule",2
+Public Constructor,"org.apache.commons.digester3.CallMethodRule.CallMethodRule",1
+Public Constructor,"org.apache.commons.digester3.CallMethodRule.CallMethodRule",1
+Public Constructor,"org.apache.commons.digester3.CallMethodRule.CallMethodRule",1
+Public Constructor,"org.apache.commons.digester3.CallMethodRule.CallMethodRule",2
+Public Constructor,"org.apache.commons.digester3.CallMethodRule.CallMethodRule",1
+Public Constructor,"org.apache.commons.digester3.CallMethodRule.CallMethodRule",2
+Public Method,"org.apache.commons.digester3.CallMethodRule.begin",2
+Public Method,"org.apache.commons.digester3.CallMethodRule.body",2
+Public Method,"org.apache.commons.digester3.CallMethodRule.end",16
+Public Method,"org.apache.commons.digester3.CallMethodRule.finish",1
+Public Method,"org.apache.commons.digester3.CallMethodRule.getUseExactMatch",1
+Protected Method,"org.apache.commons.digester3.CallMethodRule.processMethodCallResult",1
+Public Method,"org.apache.commons.digester3.CallMethodRule.setDigester",4
+Public Method,"org.apache.commons.digester3.CallMethodRule.setUseExactMatch",1
+Public Method,"org.apache.commons.digester3.CallMethodRule.toString",5
+Protected Method,"org.apache.commons.digester3.CallMethodRuleTestCase.getInputStream",1
+Public Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testBasic",1
+Protected Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testBasic.(Anon_1).configure",1
+Public Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testCallInvalidTarget",2
+Public Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testCallMethodOnly",1
+Protected Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testCallMethodOnly.(Anon_2).configure",1
+Public Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testCallNext",1
+Public Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testCallRoot",1
+Public Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testFromStack",1
+Public Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testNestedBody",1
+Public Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testOrderNestedPartA",1
+Protected Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testOrderNestedPartA.(Anon_8).configure",1
+Public Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testOrderNestedPartB",2
+Protected Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testOrderNestedPartB.(Anon_9).configure",1
+Public Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testParamsFromStack",1
+Protected Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testParamsFromStack.(Anon_7).configure",1
+Public Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testPathCallParam",1
+Public Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testPrimitiveReading",1
+Public Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testProcessingHook",1
+Constructor,"org.apache.commons.digester3.CallMethodRuleTestCase.testProcessingHook.TestCallMethodRule.TestCallMethodRule",1
+Protected Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testProcessingHook.TestCallMethodRule.processMethodCallResult",1
+Public Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testSettingProperties",1
+Protected Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testSettingProperties.(Anon_3).configure",1
+Protected Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testSettingProperties.(Anon_4).configure",1
+Protected Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testSettingProperties.(Anon_5).configure",1
+Protected Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testSettingProperties.(Anon_6).configure",1
+Public Method,"org.apache.commons.digester3.CallMethodRuleTestCase.testTwoCalls",1
+Public Constructor,"org.apache.commons.digester3.CallParamRule.CallParamRule",1
+Public Constructor,"org.apache.commons.digester3.CallParamRule.CallParamRule",1
+Public Constructor,"org.apache.commons.digester3.CallParamRule.CallParamRule",1
+Public Constructor,"org.apache.commons.digester3.CallParamRule.CallParamRule",1
+Public Method,"org.apache.commons.digester3.CallParamRule.begin",5
+Public Method,"org.apache.commons.digester3.CallParamRule.body",3
+Public Method,"org.apache.commons.digester3.CallParamRule.end",2
+Public Method,"org.apache.commons.digester3.CallParamRule.setAttributeName",1
+Public Method,"org.apache.commons.digester3.CallParamRule.toString",1
+Public Constructor,"org.apache.commons.digester3.Digester.Digester",1
+Public Constructor,"org.apache.commons.digester3.Digester.Digester",1
+Public Constructor,"org.apache.commons.digester3.Digester.Digester",1
+Public Method,"org.apache.commons.digester3.Digester.addBeanPropertySetter",1
+Public Method,"org.apache.commons.digester3.Digester.addBeanPropertySetter",1
+Public Method,"org.apache.commons.digester3.Digester.addCallMethod",1
+Public Method,"org.apache.commons.digester3.Digester.addCallMethod",1
+Public Method,"org.apache.commons.digester3.Digester.addCallMethod",1
+Public Method,"org.apache.commons.digester3.Digester.addCallMethod",1
+Public Method,"org.apache.commons.digester3.Digester.addCallParam",1
+Public Method,"org.apache.commons.digester3.Digester.addCallParam",1
+Public Method,"org.apache.commons.digester3.Digester.addCallParam",1
+Public Method,"org.apache.commons.digester3.Digester.addCallParam",1
+Public Method,"org.apache.commons.digester3.Digester.addCallParamPath",1
+Public Method,"org.apache.commons.digester3.Digester.addFactoryCreate",1
+Public Method,"org.apache.commons.digester3.Digester.addFactoryCreate",1
+Public Method,"org.apache.commons.digester3.Digester.addFactoryCreate",1
+Public Method,"org.apache.commons.digester3.Digester.addFactoryCreate",1
+Public Method,"org.apache.commons.digester3.Digester.addFactoryCreate",1
+Public Method,"org.apache.commons.digester3.Digester.addFactoryCreate",1
+Public Method,"org.apache.commons.digester3.Digester.addFactoryCreate",1
+Public Method,"org.apache.commons.digester3.Digester.addFactoryCreate",1
+Public Method,"org.apache.commons.digester3.Digester.addFactoryCreate",1
+Public Method,"org.apache.commons.digester3.Digester.addFactoryCreate",1
+Public Method,"org.apache.commons.digester3.Digester.addObjectCreate",1
+Public Method,"org.apache.commons.digester3.Digester.addObjectCreate",1
+Public Method,"org.apache.commons.digester3.Digester.addObjectCreate",1
+Public Method,"org.apache.commons.digester3.Digester.addObjectCreate",1
+Public Method,"org.apache.commons.digester3.Digester.addObjectParam",1
+Public Method,"org.apache.commons.digester3.Digester.addRule",1
+Public Method,"org.apache.commons.digester3.Digester.addRuleSet",3
+Public Method,"org.apache.commons.digester3.Digester.addSetNestedProperties",1
+Public Method,"org.apache.commons.digester3.Digester.addSetNestedProperties",1
+Public Method,"org.apache.commons.digester3.Digester.addSetNestedProperties",1
+Public Method,"org.apache.commons.digester3.Digester.addSetNext",1
+Public Method,"org.apache.commons.digester3.Digester.addSetNext",1
+Public Method,"org.apache.commons.digester3.Digester.addSetProperties",1
+Public Method,"org.apache.commons.digester3.Digester.addSetProperties",1
+Public Method,"org.apache.commons.digester3.Digester.addSetProperties",1
+Public Method,"org.apache.commons.digester3.Digester.addSetProperty",1
+Public Method,"org.apache.commons.digester3.Digester.addSetRoot",1
+Public Method,"org.apache.commons.digester3.Digester.addSetRoot",1
+Public Method,"org.apache.commons.digester3.Digester.addSetTop",1
+Public Method,"org.apache.commons.digester3.Digester.addSetTop",1
+Public Generic Method,"org.apache.commons.digester3.Digester.asyncParse",1
+Public Generic Method,"org.apache.commons.digester3.Digester.asyncParse",1
+Public Generic Method,"org.apache.commons.digester3.Digester.asyncParse",1
+Public Generic Method,"org.apache.commons.digester3.Digester.asyncParse",1
+Public Generic Method,"org.apache.commons.digester3.Digester.asyncParse",1
+Public Generic Method,"org.apache.commons.digester3.Digester.asyncParse",1
+Private Generic Method,"org.apache.commons.digester3.Digester.asyncParse",2
+Public Method,"org.apache.commons.digester3.Digester.asyncParse.(Anon_1).call",1
+Public Method,"org.apache.commons.digester3.Digester.asyncParse.(Anon_2).call",1
+Public Method,"org.apache.commons.digester3.Digester.asyncParse.(Anon_3).call",1
+Public Method,"org.apache.commons.digester3.Digester.asyncParse.(Anon_4).call",1
+Public Method,"org.apache.commons.digester3.Digester.asyncParse.(Anon_5).call",1
+Public Method,"org.apache.commons.digester3.Digester.asyncParse.(Anon_6).call",1
+Public Method,"org.apache.commons.digester3.Digester.characters",3
+Protected Method,"org.apache.commons.digester3.Digester.cleanup",4
+Public Method,"org.apache.commons.digester3.Digester.clear",1
+Protected Method,"org.apache.commons.digester3.Digester.configure",2
+Public Method,"org.apache.commons.digester3.Digester.createInputSourceFromURL",1
+Public Method,"org.apache.commons.digester3.Digester.createInputSourceFromURL",1
+Public Method,"org.apache.commons.digester3.Digester.createSAXException",3
+Public Method,"org.apache.commons.digester3.Digester.createSAXException",6
+Public Method,"org.apache.commons.digester3.Digester.createSAXException",1
+Public Method,"org.apache.commons.digester3.Digester.endDocument",6
+Public Method,"org.apache.commons.digester3.Digester.endElement",19
+Public Method,"org.apache.commons.digester3.Digester.endPrefixMapping",5
+Public Method,"org.apache.commons.digester3.Digester.error",2
+Public Method,"org.apache.commons.digester3.Digester.fatalError",2
+Public Method,"org.apache.commons.digester3.Digester.findNamespaceURI",3
+Public Method,"org.apache.commons.digester3.Digester.getClassLoader",4
+Public Method,"org.apache.commons.digester3.Digester.getCount",1
+Public Method,"org.apache.commons.digester3.Digester.getCurrentElementName",2
+Public Method,"org.apache.commons.digester3.Digester.getCurrentNamespaces",4
+Public Method,"org.apache.commons.digester3.Digester.getCustomContentHandler",1
+Public Method,"org.apache.commons.digester3.Digester.getDocumentLocator",1
+Public Method,"org.apache.commons.digester3.Digester.getEntityResolver",1
+Public Method,"org.apache.commons.digester3.Digester.getErrorHandler",1
+Public Method,"org.apache.commons.digester3.Digester.getExecutorService",1
+Public Method,"org.apache.commons.digester3.Digester.getFactory",2
+Public Method,"org.apache.commons.digester3.Digester.getFeature",1
+Public Method,"org.apache.commons.digester3.Digester.getLogger",1
+Public Method,"org.apache.commons.digester3.Digester.getMatch",1
+Public Method,"org.apache.commons.digester3.Digester.getMatches",1
+Public Method,"org.apache.commons.digester3.Digester.getNamespaceAware",1
+Public Method,"org.apache.commons.digester3.Digester.getParser",3
+Public Method,"org.apache.commons.digester3.Digester.getProperty",1
+Public Method,"org.apache.commons.digester3.Digester.getPublicId",1
+Method,"org.apache.commons.digester3.Digester.getRegistrations",1
+Public Generic Method,"org.apache.commons.digester3.Digester.getRoot",1
+Public Method,"org.apache.commons.digester3.Digester.getRuleNamespaceURI",1
+Public Method,"org.apache.commons.digester3.Digester.getRules",2
+Public Method,"org.apache.commons.digester3.Digester.getSAXLogger",1
+Public Method,"org.apache.commons.digester3.Digester.getStackAction",1
+Public Method,"org.apache.commons.digester3.Digester.getSubstitutor",1
+Public Method,"org.apache.commons.digester3.Digester.getUseContextClassLoader",1
+Public Method,"org.apache.commons.digester3.Digester.getValidating",1
+Public Method,"org.apache.commons.digester3.Digester.getXIncludeAware",1
+Public Method,"org.apache.commons.digester3.Digester.getXMLReader",3
+Public Method,"org.apache.commons.digester3.Digester.getXMLSchema",1
+Public Method,"org.apache.commons.digester3.Digester.ignorableWhitespace",2
+Protected Method,"org.apache.commons.digester3.Digester.initialize",1
+Public Method,"org.apache.commons.digester3.Digester.isConfigured",1
+Public Method,"org.apache.commons.digester3.Digester.isEmpty",2
+Public Method,"org.apache.commons.digester3.Digester.notationDecl",2
+Private Generic Method,"org.apache.commons.digester3.Digester.npeSafeCast",2
+Public Generic Method,"org.apache.commons.digester3.Digester.parse",2
+Public Generic Method,"org.apache.commons.digester3.Digester.parse",2
+Public Generic Method,"org.apache.commons.digester3.Digester.parse",2
+Public Generic Method,"org.apache.commons.digester3.Digester.parse",5
+Public Generic Method,"org.apache.commons.digester3.Digester.parse",2
+Public Generic Method,"org.apache.commons.digester3.Digester.parse",2
+Public Generic Method,"org.apache.commons.digester3.Digester.peek",3
+Public Generic Method,"org.apache.commons.digester3.Digester.peek",1
+Public Generic Method,"org.apache.commons.digester3.Digester.peek",4
+Public Generic Method,"org.apache.commons.digester3.Digester.peek",2
+Public Method,"org.apache.commons.digester3.Digester.peekParams",2
+Public Method,"org.apache.commons.digester3.Digester.peekParams",3
+Public Generic Method,"org.apache.commons.digester3.Digester.pop",3
+Public Generic Method,"org.apache.commons.digester3.Digester.pop",4
+Public Method,"org.apache.commons.digester3.Digester.popParams",3
+Public Method,"org.apache.commons.digester3.Digester.processingInstruction",3
+Public Generic Method,"org.apache.commons.digester3.Digester.push",3
+Public Generic Method,"org.apache.commons.digester3.Digester.push",3
+Public Method,"org.apache.commons.digester3.Digester.pushParams",2
+Public Method,"org.apache.commons.digester3.Digester.register",2
+Public Method,"org.apache.commons.digester3.Digester.register",3
+Public Method,"org.apache.commons.digester3.Digester.registerAll",1
+Public Method,"org.apache.commons.digester3.Digester.resetRoot",1
+Public Method,"org.apache.commons.digester3.Digester.resolveEntity",12
+Public Method,"org.apache.commons.digester3.Digester.setClassLoader",1
+Public Method,"org.apache.commons.digester3.Digester.setCustomContentHandler",1
+Public Method,"org.apache.commons.digester3.Digester.setDocumentLocator",2
+Public Method,"org.apache.commons.digester3.Digester.setEntityResolver",1
+Public Method,"org.apache.commons.digester3.Digester.setErrorHandler",1
+Public Method,"org.apache.commons.digester3.Digester.setExecutorService",1
+Public Method,"org.apache.commons.digester3.Digester.setFeature",1
+Public Method,"org.apache.commons.digester3.Digester.setLogger",1
+Public Method,"org.apache.commons.digester3.Digester.setNamespaceAware",1
+Public Method,"org.apache.commons.digester3.Digester.setProperty",1
+Public Method,"org.apache.commons.digester3.Digester.setPublicId",1
+Public Method,"org.apache.commons.digester3.Digester.setRuleNamespaceURI",1
+Public Method,"org.apache.commons.digester3.Digester.setRules",1
+Public Method,"org.apache.commons.digester3.Digester.setSAXLogger",1
+Public Method,"org.apache.commons.digester3.Digester.setStackAction",1
+Public Method,"org.apache.commons.digester3.Digester.setSubstitutor",1
+Public Method,"org.apache.commons.digester3.Digester.setUseContextClassLoader",1
+Public Method,"org.apache.commons.digester3.Digester.setValidating",1
+Public Method,"org.apache.commons.digester3.Digester.setXIncludeAware",1
+Public Method,"org.apache.commons.digester3.Digester.setXMLSchema",1
+Public Method,"org.apache.commons.digester3.Digester.skippedEntity",2
+Public Method,"org.apache.commons.digester3.Digester.startDocument",2
+Public Method,"org.apache.commons.digester3.Digester.startElement",14
+Public Method,"org.apache.commons.digester3.Digester.startPrefixMapping",3
+Public Method,"org.apache.commons.digester3.Digester.unparsedEntityDecl",2
+Public Method,"org.apache.commons.digester3.Digester.warning",2
+Public Method,"org.apache.commons.digester3.Digester133TestCase.MyClass.isFlag",1
+Public Method,"org.apache.commons.digester3.Digester133TestCase.MyClass.setFlag",1
+Protected Method,"org.apache.commons.digester3.Digester133TestCase.MyPropertyUtilsBean.getPropertyOfMapBean",2
+Protected Method,"org.apache.commons.digester3.Digester133TestCase.MyPropertyUtilsBean.setPropertyOfMapBean",2
+Public Method,"org.apache.commons.digester3.Digester133TestCase.testDigester",1
+Public Method,"org.apache.commons.digester3.Digester153TestCase.basicConstructor",1
+Public Method,"org.apache.commons.digester3.Digester153TestCase.basicConstructorViaAnnotations",1
+Protected Method,"org.apache.commons.digester3.Digester153TestCase.basicConstructorViaAnnotations.(Anon_2).configureRules",1
+Public Method,"org.apache.commons.digester3.Digester153TestCase.basicConstructorViaBinder",1
+Protected Method,"org.apache.commons.digester3.Digester153TestCase.basicConstructorViaBinder.(Anon_1).configure",1
+Public Method,"org.apache.commons.digester3.Digester153TestCase.basicConstructorViaXML",1
+Protected Method,"org.apache.commons.digester3.Digester153TestCase.basicConstructorViaXML.(Anon_3).loadRules",1
+Public Method,"org.apache.commons.digester3.Digester153TestCase.basicConstructorWithValuesNotFound",1
+Public Method,"org.apache.commons.digester3.Digester153TestCase.basicConstructorWithWrongParameters",1
+Public Method,"org.apache.commons.digester3.Digester153TestCase.constructorWithAttributeAndElement",1
+Public Method,"org.apache.commons.digester3.Digester153TestCase.constructorWithClassDefinedInAttribute",1
+Private Method,"org.apache.commons.digester3.Digester153TestCase.succesfullConstructor",1
+Public Method,"org.apache.commons.digester3.DigesterTestCase.TrackingStackAction.onPop",2
+Public Method,"org.apache.commons.digester3.DigesterTestCase.TrackingStackAction.onPush",2
+Public Method,"org.apache.commons.digester3.DigesterTestCase.setUp",1
+Public Method,"org.apache.commons.digester3.DigesterTestCase.tearDown",1
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testBasicSubstitution",1
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testBasicSubstitution.(Anon_1).substitute",1
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testBasicSubstitution.(Anon_1).substitute",1
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testBasicSubstitution.TestSubRule.begin",1
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testBasicSubstitution.TestSubRule.body",1
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testGetRoot",1
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testNamedIndependence",1
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testNamedStackIsEmpty",1
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testNamedStackPushPeekPop",3
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testNullFileParse",2
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testNullInputSourceParse",2
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testNullInputStreamParse",2
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testNullReaderParse",2
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testNullStringParse",2
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testNullURLParse",2
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testOnceAndOnceOnly",1
+Public Constructor,"org.apache.commons.digester3.DigesterTestCase.testOnceAndOnceOnly.TestConfigureDigester.TestConfigureDigester",1
+Protected Method,"org.apache.commons.digester3.DigesterTestCase.testOnceAndOnceOnly.TestConfigureDigester.initialize",1
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testPopNamedStackNotPushed",3
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testProperties",1
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testRegistrations",8
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testRules",1
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testRulesBase",1
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testStackAction",1
+Public Method,"org.apache.commons.digester3.DigesterTestCase.testStackMethods",1
+Public Constructor,"org.apache.commons.digester3.Employee.Employee",1
+Public Constructor,"org.apache.commons.digester3.Employee.Employee",1
+Public Method,"org.apache.commons.digester3.Employee.addAddress",1
+Public Method,"org.apache.commons.digester3.Employee.getAddress",3
+Public Method,"org.apache.commons.digester3.Employee.getAge",1
+Public Method,"org.apache.commons.digester3.Employee.getFirstName",1
+Public Method,"org.apache.commons.digester3.Employee.getLastName",1
+Public Method,"org.apache.commons.digester3.Employee.getSalary",1
+Public Method,"org.apache.commons.digester3.Employee.isActive",1
+Public Method,"org.apache.commons.digester3.Employee.removeAddress",1
+Public Method,"org.apache.commons.digester3.Employee.setActive",1
+Public Method,"org.apache.commons.digester3.Employee.setAge",1
+Public Method,"org.apache.commons.digester3.Employee.setFirstName",1
+Public Method,"org.apache.commons.digester3.Employee.setLastName",1
+Public Method,"org.apache.commons.digester3.Employee.setSalary",1
+Public Method,"org.apache.commons.digester3.Employee.toString",1
+Private Method,"org.apache.commons.digester3.ExtendedBaseRules.basicMatch",1
+Private Method,"org.apache.commons.digester3.ExtendedBaseRules.findExactAncesterMatch",4
+Public Method,"org.apache.commons.digester3.ExtendedBaseRules.match",32
+Public Method,"org.apache.commons.digester3.ExtendedBaseRules.match.(Anon_1).compare",4
+Private Method,"org.apache.commons.digester3.ExtendedBaseRules.parentMatch",1
+Protected Method,"org.apache.commons.digester3.ExtendedBaseRules.registerRule",1
+Protected Method,"org.apache.commons.digester3.ExtendedBaseRulesTestCase.createMatchingRulesForTest",1
+Public Method,"org.apache.commons.digester3.ExtendedBaseRulesTestCase.testAncesterMatch",1
+Public Method,"org.apache.commons.digester3.ExtendedBaseRulesTestCase.testBasicParentMatch",1
+Public Method,"org.apache.commons.digester3.ExtendedBaseRulesTestCase.testBasicUniversal",1
+Public Method,"org.apache.commons.digester3.ExtendedBaseRulesTestCase.testInstructors",1
+Public Method,"org.apache.commons.digester3.ExtendedBaseRulesTestCase.testLongMatch",1
+Public Method,"org.apache.commons.digester3.ExtendedBaseRulesTestCase.testMiddleInstructors",1
+Public Method,"org.apache.commons.digester3.ExtendedBaseRulesTestCase.testRootTailMatch",1
+Public Method,"org.apache.commons.digester3.ExtendedBaseRulesTestCase.testWildMatch",1
+Public Constructor,"org.apache.commons.digester3.FactoryCreateRule.FactoryCreateRule",1
+Public Constructor,"org.apache.commons.digester3.FactoryCreateRule.FactoryCreateRule",1
+Public Constructor,"org.apache.commons.digester3.FactoryCreateRule.FactoryCreateRule",1
+Public Constructor,"org.apache.commons.digester3.FactoryCreateRule.FactoryCreateRule",1
+Public Constructor,"org.apache.commons.digester3.FactoryCreateRule.FactoryCreateRule",1
+Public Constructor,"org.apache.commons.digester3.FactoryCreateRule.FactoryCreateRule",1
+Public Constructor,"org.apache.commons.digester3.FactoryCreateRule.FactoryCreateRule",1
+Public Constructor,"org.apache.commons.digester3.FactoryCreateRule.FactoryCreateRule",1
+Public Constructor,"org.apache.commons.digester3.FactoryCreateRule.FactoryCreateRule",1
+Public Constructor,"org.apache.commons.digester3.FactoryCreateRule.FactoryCreateRule",1
+Public Method,"org.apache.commons.digester3.FactoryCreateRule.begin",11
+Public Method,"org.apache.commons.digester3.FactoryCreateRule.end",4
+Public Method,"org.apache.commons.digester3.FactoryCreateRule.finish",2
+Protected Method,"org.apache.commons.digester3.FactoryCreateRule.getFactory",5
+Public Method,"org.apache.commons.digester3.FactoryCreateRule.toString",2
+Public Generic Method,"org.apache.commons.digester3.LocationTrackerTestCase.LocationTracker.onPop",1
+Public Generic Method,"org.apache.commons.digester3.LocationTrackerTestCase.LocationTracker.onPush",2
+Public Method,"org.apache.commons.digester3.LocationTrackerTestCase.testAll",1
+Protected Method,"org.apache.commons.digester3.LocationTrackerTestCase.testAll.(Anon_1).configure",1
+Abstract Method,"org.apache.commons.digester3.Nameable.getName",0
+Abstract Method,"org.apache.commons.digester3.Nameable.setName",0
+Public Constructor,"org.apache.commons.digester3.NamedBean.NamedBean",1
+Public Constructor,"org.apache.commons.digester3.NamedBean.NamedBean",1
+Public Method,"org.apache.commons.digester3.NamedBean.getName",1
+Public Method,"org.apache.commons.digester3.NamedBean.setName",1
+Public Method,"org.apache.commons.digester3.NamedBean.test",1
+Public Method,"org.apache.commons.digester3.NamedBean.toString",1
+Public Method,"org.apache.commons.digester3.NamespaceSnapshotTestCase.NamespaceSnapshotRule.Provider.get",1
+Public Method,"org.apache.commons.digester3.NamespaceSnapshotTestCase.NamespaceSnapshotRule.begin",1
+Protected Method,"org.apache.commons.digester3.NamespaceSnapshotTestCase.getInputStream",1
+Public Method,"org.apache.commons.digester3.NamespaceSnapshotTestCase.testNamespaceSnapshots",1
+Protected Method,"org.apache.commons.digester3.NamespaceSnapshotTestCase.testNamespaceSnapshots.(Anon_1).configure",1
+Public Constructor,"org.apache.commons.digester3.NamespacedBox.NamespacedBox",1
+Public Method,"org.apache.commons.digester3.NamespacedBox.getNamespaces",1
+Public Method,"org.apache.commons.digester3.NamespacedBox.setNamespaces",1
+Public Constructor,"org.apache.commons.digester3.NodeCreateRule.NodeBuilder.NodeBuilder",1
+Private Method,"org.apache.commons.digester3.NodeCreateRule.NodeBuilder.addTextIfPresent",4
+Public Method,"org.apache.commons.digester3.NodeCreateRule.NodeBuilder.characters",1
+Public Method,"org.apache.commons.digester3.NodeCreateRule.NodeBuilder.endElement",3
+Public Method,"org.apache.commons.digester3.NodeCreateRule.NodeBuilder.processingInstruction",2
+Public Method,"org.apache.commons.digester3.NodeCreateRule.NodeBuilder.startElement",5
+Public Constructor,"org.apache.commons.digester3.NodeCreateRule.NodeCreateRule",1
+Public Constructor,"org.apache.commons.digester3.NodeCreateRule.NodeCreateRule",2
+Public Constructor,"org.apache.commons.digester3.NodeCreateRule.NodeCreateRule",1
+Public Constructor,"org.apache.commons.digester3.NodeCreateRule.NodeCreateRule",1
+Public Method,"org.apache.commons.digester3.NodeCreateRule.begin",5
+Public Method,"org.apache.commons.digester3.NodeCreateRule.end",1
+Protected Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.getInputStream",1
+Public Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testAttributes",1
+Protected Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testAttributes.(Anon_4).configure",1
+Public Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testDocumentFragment",1
+Protected Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testDocumentFragment.(Anon_2).configure",1
+Public Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testElement",1
+Protected Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testElement.(Anon_1).configure",1
+Public Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testEntityText",1
+Protected Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testEntityText.(Anon_9).configure",1
+Public Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testImport",1
+Protected Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testImport.(Anon_8).configure",1
+Public Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testInvalidNodeTypes",11
+Public Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testNamespacedAttribute",1
+Protected Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testNamespacedAttribute.(Anon_6).configure",1
+Public Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testNamespaces",1
+Protected Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testNamespaces.(Anon_5).configure",1
+Public Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testNested",1
+Protected Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testNested.(Anon_3).configure",1
+Public Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testNonNamespacedAttribute",1
+Protected Method,"org.apache.commons.digester3.NodeCreateRuleTestCase.testNonNamespacedAttribute.(Anon_7).configure",1
+Constructor,"org.apache.commons.digester3.ObjectCreateRule.DeferredConstructionCallback.DeferredConstructionCallback",1
+Method,"org.apache.commons.digester3.ObjectCreateRule.DeferredConstructionCallback.establishDelegate",2
+Public Method,"org.apache.commons.digester3.ObjectCreateRule.DeferredConstructionCallback.intercept",3
+Public Constructor,"org.apache.commons.digester3.ObjectCreateRule.ObjectCreateRule",1
+Public Constructor,"org.apache.commons.digester3.ObjectCreateRule.ObjectCreateRule",1
+Public Constructor,"org.apache.commons.digester3.ObjectCreateRule.ObjectCreateRule",1
+Public Constructor,"org.apache.commons.digester3.ObjectCreateRule.ObjectCreateRule",1
+Constructor,"org.apache.commons.digester3.ObjectCreateRule.ProxyManager.ProxyManager",6
+Method,"org.apache.commons.digester3.ObjectCreateRule.ProxyManager.createProxy",4
+Method,"org.apache.commons.digester3.ObjectCreateRule.ProxyManager.finalize",1
+Public Method,"org.apache.commons.digester3.ObjectCreateRule.begin",9
+Private Static Method,"org.apache.commons.digester3.ObjectCreateRule.convertTo",4
+Public Method,"org.apache.commons.digester3.ObjectCreateRule.end",3
+Public Method,"org.apache.commons.digester3.ObjectCreateRule.setConstructorArgumentTypes",2
+Public Method,"org.apache.commons.digester3.ObjectCreateRule.setDefaultConstructorArguments",2
+Public Method,"org.apache.commons.digester3.ObjectCreateRule.toString",1
+Abstract Method,"org.apache.commons.digester3.ObjectCreationFactory.createObject",0
+Abstract Method,"org.apache.commons.digester3.ObjectCreationFactory.getDigester",0
+Abstract Method,"org.apache.commons.digester3.ObjectCreationFactory.setDigester",0
+Public Method,"org.apache.commons.digester3.ObjectCreationFactoryTestImpl.createObject",1
+Public Constructor,"org.apache.commons.digester3.ObjectParamRule.ObjectParamRule",1
+Public Constructor,"org.apache.commons.digester3.ObjectParamRule.ObjectParamRule",1
+Public Method,"org.apache.commons.digester3.ObjectParamRule.begin",3
+Public Method,"org.apache.commons.digester3.ObjectParamRule.toString",1
+Public Method,"org.apache.commons.digester3.ObjectParamRuleTestCase.testBasic",1
+Protected Method,"org.apache.commons.digester3.ObjectParamRuleTestCase.testBasic.(Anon_1).configure",1
+Public Method,"org.apache.commons.digester3.OverlappingCallMethodRuleTestCase.setItemId",1
+Public Method,"org.apache.commons.digester3.OverlappingCallMethodRuleTestCase.setItemName",1
+Public Method,"org.apache.commons.digester3.OverlappingCallMethodRuleTestCase.testItem1",1
+Protected Method,"org.apache.commons.digester3.OverlappingCallMethodRuleTestCase.testItem1.(Anon_1).configure",1
+Public Method,"org.apache.commons.digester3.OverlappingCallMethodRuleTestCase.testItem2",1
+Protected Method,"org.apache.commons.digester3.OverlappingCallMethodRuleTestCase.testItem2.(Anon_2).configure",1
+Public Method,"org.apache.commons.digester3.OverlappingCallMethodRuleTestCase.testItem3",1
+Protected Method,"org.apache.commons.digester3.OverlappingCallMethodRuleTestCase.testItem3.(Anon_3).configure",1
+Public Method,"org.apache.commons.digester3.OverlappingCallMethodRuleTestCase.testItem4",1
+Protected Method,"org.apache.commons.digester3.OverlappingCallMethodRuleTestCase.testItem4.(Anon_4).configure",1
+Public Method,"org.apache.commons.digester3.OverlappingCallMethodRuleTestCase.testWildcard1",1
+Protected Method,"org.apache.commons.digester3.OverlappingCallMethodRuleTestCase.testWildcard1.(Anon_5).configure",1
+Public Method,"org.apache.commons.digester3.OverlappingCallMethodRuleTestCase.testWildcard2",1
+Protected Method,"org.apache.commons.digester3.OverlappingCallMethodRuleTestCase.testWildcard2.(Anon_6).configure",1
+Public Constructor,"org.apache.commons.digester3.ParamBean.ParamBean",1
+Public Method,"org.apache.commons.digester3.ParamBean.getThat",1
+Public Method,"org.apache.commons.digester3.ParamBean.getThis",1
+Public Method,"org.apache.commons.digester3.ParamBean.isCool",1
+Public Method,"org.apache.commons.digester3.ParamBean.setCool",1
+Public Method,"org.apache.commons.digester3.ParamBean.setThisAndThat",1
+Public Constructor,"org.apache.commons.digester3.PathCallParamRule.PathCallParamRule",1
+Public Method,"org.apache.commons.digester3.PathCallParamRule.begin",2
+Public Method,"org.apache.commons.digester3.PathCallParamRule.toString",1
+Public Constructor,"org.apache.commons.digester3.PatternRuleMatcher.PatternRuleMatcher",1
+Public Constructor,"org.apache.commons.digester3.PatternRuleMatcher.PatternRuleMatcher",2
+Public Method,"org.apache.commons.digester3.PatternRuleMatcher.equals",8
+Public Method,"org.apache.commons.digester3.PatternRuleMatcher.getNamespaceURI",1
+Public Method,"org.apache.commons.digester3.PatternRuleMatcher.getPattern",1
+Public Method,"org.apache.commons.digester3.PatternRuleMatcher.hashCode",2
+Public Method,"org.apache.commons.digester3.PatternRuleMatcher.match",2
+Public Method,"org.apache.commons.digester3.PatternRuleMatcher.toString",1
+Public Constructor,"org.apache.commons.digester3.PrimitiveBean.PrimitiveBean",1
+Public Method,"org.apache.commons.digester3.PrimitiveBean.getBoolean",1
+Public Method,"org.apache.commons.digester3.PrimitiveBean.getSetBooleanCalled",1
+Public Method,"org.apache.commons.digester3.PrimitiveBean.setBoolean",1
+Public Method,"org.apache.commons.digester3.PrimitiveBean.testSetBoolean",1
+Public Constructor,"org.apache.commons.digester3.RecordedInvocation.RecordedInvocation",1
+Protected Method,"org.apache.commons.digester3.RecordedInvocation.convert",5
+Public Method,"org.apache.commons.digester3.RecordedInvocation.getArguments",1
+Public Method,"org.apache.commons.digester3.RecordedInvocation.getInvokedMethod",1
+Public Method,"org.apache.commons.digester3.RecordedInvocation.toString",3
+Public Abstract Method,"org.apache.commons.digester3.RegexMatcher.match",0
+Public Constructor,"org.apache.commons.digester3.RegexRules.RegexRules",1
+Constructor,"org.apache.commons.digester3.RegexRules.RegisteredRule.RegisteredRule",1
+Public Method,"org.apache.commons.digester3.RegexRules.clear",1
+Public Method,"org.apache.commons.digester3.RegexRules.getRegexMatcher",1
+Public Method,"org.apache.commons.digester3.RegexRules.match",3
+Protected Method,"org.apache.commons.digester3.RegexRules.registerRule",1
+Public Method,"org.apache.commons.digester3.RegexRules.rules",2
+Public Method,"org.apache.commons.digester3.RegexRules.setRegexMatcher",2
+Public Method,"org.apache.commons.digester3.RegexRulesTestCase.testClear",1
+Public Method,"org.apache.commons.digester3.RegexRulesTestCase.testClear.(Anon_4).match",1
+Public Method,"org.apache.commons.digester3.RegexRulesTestCase.testMatchAll",1
+Public Method,"org.apache.commons.digester3.RegexRulesTestCase.testMatchAll.(Anon_1).match",1
+Public Method,"org.apache.commons.digester3.RegexRulesTestCase.testMatchMixed",1
+Public Method,"org.apache.commons.digester3.RegexRulesTestCase.testMatchMixed.(Anon_3).match",1
+Public Method,"org.apache.commons.digester3.RegexRulesTestCase.testMatchNothing",1
+Public Method,"org.apache.commons.digester3.RegexRulesTestCase.testMatchNothing.(Anon_2).match",1
+Public Method,"org.apache.commons.digester3.RegexRulesTestCase.testSimpleRegexMatch",1
+Public Method,"org.apache.commons.digester3.Rule.begin",1
+Public Method,"org.apache.commons.digester3.Rule.body",1
+Public Method,"org.apache.commons.digester3.Rule.end",1
+Public Method,"org.apache.commons.digester3.Rule.finish",1
+Public Method,"org.apache.commons.digester3.Rule.getDigester",1
+Public Method,"org.apache.commons.digester3.Rule.getNamespaceURI",1
+Public Method,"org.apache.commons.digester3.Rule.setDigester",1
+Public Method,"org.apache.commons.digester3.Rule.setNamespaceURI",1
+Abstract Method,"org.apache.commons.digester3.RuleMatcher.match",0
+Abstract Method,"org.apache.commons.digester3.RuleSet.addRuleInstances",0
+Abstract Method,"org.apache.commons.digester3.RuleSet.getNamespaceURI",0
+Public Constructor,"org.apache.commons.digester3.RuleSetBase.RuleSetBase",1
+Public Constructor,"org.apache.commons.digester3.RuleSetBase.RuleSetBase",1
+Public Method,"org.apache.commons.digester3.RuleSetBase.getNamespaceURI",1
+Protected Method,"org.apache.commons.digester3.RuleTestCase.getInputStream",1
+Public Method,"org.apache.commons.digester3.RuleTestCase.setUp",1
+Public Method,"org.apache.commons.digester3.RuleTestCase.tearDown",1
+Public Method,"org.apache.commons.digester3.RuleTestCase.testAddRule",1
+Public Method,"org.apache.commons.digester3.RuleTestCase.testObjectCreate1",1
+Public Method,"org.apache.commons.digester3.RuleTestCase.testObjectCreate2",1
+Public Method,"org.apache.commons.digester3.RuleTestCase.testObjectCreate3",2
+Public Method,"org.apache.commons.digester3.RuleTestCase.testObjectCreate4",1
+Public Method,"org.apache.commons.digester3.RuleTestCase.testObjectCreate5",1
+Public Method,"org.apache.commons.digester3.RuleTestCase.testRepeatedParse",1
+Public Method,"org.apache.commons.digester3.RuleTestCase.testRuleSet1",1
+Public Method,"org.apache.commons.digester3.RuleTestCase.testRuleSet2",1
+Public Method,"org.apache.commons.digester3.RuleTestCase.testRuleSet3",1
+Public Method,"org.apache.commons.digester3.RuleTestCase.testSetCustomProperties",1
+Public Method,"org.apache.commons.digester3.RuleTestCase.testSetNext",1
+Public Method,"org.apache.commons.digester3.RuleTestCase.testSetTop",1
+Public Method,"org.apache.commons.digester3.RuleTestCase.testSetTopRule1",1
+Public Method,"org.apache.commons.digester3.RuleTestCase.testSetTopRule2",1
+Protected Method,"org.apache.commons.digester3.RuleTestCase.validateObjectCreate3",1
+Abstract Method,"org.apache.commons.digester3.Rules.add",0
+Abstract Method,"org.apache.commons.digester3.Rules.clear",0
+Abstract Method,"org.apache.commons.digester3.Rules.getDigester",0
+Abstract Method,"org.apache.commons.digester3.Rules.getNamespaceURI",0
+Abstract Method,"org.apache.commons.digester3.Rules.match",0
+Abstract Method,"org.apache.commons.digester3.Rules.rules",0
+Abstract Method,"org.apache.commons.digester3.Rules.setDigester",0
+Abstract Method,"org.apache.commons.digester3.Rules.setNamespaceURI",0
+Public Method,"org.apache.commons.digester3.RulesBase.clear",1
+Protected Method,"org.apache.commons.digester3.RulesBase.lookup",5
+Public Method,"org.apache.commons.digester3.RulesBase.match",5
+Protected Method,"org.apache.commons.digester3.RulesBase.registerRule",3
+Public Method,"org.apache.commons.digester3.RulesBase.rules",1
+Public Method,"org.apache.commons.digester3.RulesBase.setDigester",2
+Protected Method,"org.apache.commons.digester3.RulesBaseTestCase.createMatchingRulesForTest",1
+Public Method,"org.apache.commons.digester3.RulesBaseTestCase.setUp",1
+Public Method,"org.apache.commons.digester3.RulesBaseTestCase.tearDown",1
+Public Method,"org.apache.commons.digester3.RulesBaseTestCase.testBasicNamespaceMatching",1
+Public Method,"org.apache.commons.digester3.RulesBaseTestCase.testOrdering",1
+Public Method,"org.apache.commons.digester3.RulesBaseTestCase.testRules",1
+Public Method,"org.apache.commons.digester3.RulesBaseTestCase.testRulesBase",1
+Public Method,"org.apache.commons.digester3.RulesBaseTestCase.testTrailingSlash",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.AnyChildRule.begin",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.AnyChildRule.body",12
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.AnyChildRule.end",1
+Public Constructor,"org.apache.commons.digester3.SetNestedPropertiesRule.AnyChildRules.AnyChildRules",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.AnyChildRules.add",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.AnyChildRules.clear",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.AnyChildRules.getDigester",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.AnyChildRules.getNamespaceURI",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.AnyChildRules.getOldRules",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.AnyChildRules.init",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.AnyChildRules.match",3
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.AnyChildRules.rules",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.AnyChildRules.setDigester",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.AnyChildRules.setNamespaceURI",1
+Public Constructor,"org.apache.commons.digester3.SetNestedPropertiesRule.SetNestedPropertiesRule",1
+Public Constructor,"org.apache.commons.digester3.SetNestedPropertiesRule.SetNestedPropertiesRule",1
+Public Constructor,"org.apache.commons.digester3.SetNestedPropertiesRule.SetNestedPropertiesRule",3
+Public Constructor,"org.apache.commons.digester3.SetNestedPropertiesRule.SetNestedPropertiesRule",2
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.addAlias",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.begin",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.body",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.getAllowUnknownChildElements",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.getTrimData",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.setAllowUnknownChildElements",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.setDigester",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.setTrimData",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRule.toString",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testAutomaticallySetProperties",1
+Protected Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testAutomaticallySetProperties.(Anon_1).configure",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testCustomisedProperties1",1
+Protected Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testCustomisedProperties1.(Anon_3).configure",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testCustomisedProperties2a",1
+Protected Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testCustomisedProperties2a.(Anon_4).configure",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testCustomisedProperties2b",1
+Protected Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testCustomisedProperties2b.(Anon_5).configure",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testMandatoryProperties",3
+Protected Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testMandatoryProperties.(Anon_2).configure",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testMultiRuleMatch",1
+Protected Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testMultiRuleMatch.(Anon_6).configure",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testRecursiveNestedProperties",1
+Protected Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testRecursiveNestedProperties.(Anon_9).configure",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testUnknownChildrenCausesException",3
+Protected Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testUnknownChildrenCausesException.(Anon_7).configure",1
+Public Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testUnknownChildrenExceptionOverride",1
+Protected Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.testUnknownChildrenExceptionOverride.(Anon_8).configure",1
+Private Method,"org.apache.commons.digester3.SetNestedPropertiesRuleTestCase.xmlTestReader",1
+Public Constructor,"org.apache.commons.digester3.SetNextRule.SetNextRule",1
+Public Constructor,"org.apache.commons.digester3.SetNextRule.SetNextRule",1
+Public Constructor,"org.apache.commons.digester3.SetNextRule.SetNextRule",1
+Protected Method,"org.apache.commons.digester3.SetNextRule.getChild",1
+Protected Method,"org.apache.commons.digester3.SetNextRule.getParent",1
+Public Constructor,"org.apache.commons.digester3.SetPropertiesRule.SetPropertiesRule",2
+Public Constructor,"org.apache.commons.digester3.SetPropertiesRule.SetPropertiesRule",1
+Public Constructor,"org.apache.commons.digester3.SetPropertiesRule.SetPropertiesRule",1
+Public Constructor,"org.apache.commons.digester3.SetPropertiesRule.SetPropertiesRule",3
+Public Method,"org.apache.commons.digester3.SetPropertiesRule.addAlias",1
+Public Method,"org.apache.commons.digester3.SetPropertiesRule.begin",10
+Public Method,"org.apache.commons.digester3.SetPropertiesRule.isIgnoreMissingProperty",1
+Public Method,"org.apache.commons.digester3.SetPropertiesRule.setIgnoreMissingProperty",1
+Public Method,"org.apache.commons.digester3.SetPropertiesRule.toString",1
+Public Method,"org.apache.commons.digester3.SetPropertiesRuleTestCase.testIgnoreMissing",1
+Protected Method,"org.apache.commons.digester3.SetPropertiesRuleTestCase.testIgnoreMissing.(Anon_2).configure",1
+Public Method,"org.apache.commons.digester3.SetPropertiesRuleTestCase.testNegativeNotIgnoreMissing",6
+Protected Method,"org.apache.commons.digester3.SetPropertiesRuleTestCase.testNegativeNotIgnoreMissing.(Anon_3).configure",1
+Public Method,"org.apache.commons.digester3.SetPropertiesRuleTestCase.testPositive",1
+Protected Method,"org.apache.commons.digester3.SetPropertiesRuleTestCase.testPositive.(Anon_1).configure",1
+Public Method,"org.apache.commons.digester3.SetPropertiesRuleTestCase.testPositiveNotIgnoreMissingWithIgnoreAttributes",1
+Protected Method,"org.apache.commons.digester3.SetPropertiesRuleTestCase.testPositiveNotIgnoreMissingWithIgnoreAttributes.(Anon_4).configure",1
+Private Method,"org.apache.commons.digester3.SetPropertiesRuleTestCase.xmlTestReader",1
+Public Constructor,"org.apache.commons.digester3.SetPropertyRule.SetPropertyRule",1
+Public Method,"org.apache.commons.digester3.SetPropertyRule.begin",10
+Public Method,"org.apache.commons.digester3.SetPropertyRule.toString",1
+Protected Method,"org.apache.commons.digester3.SetPropertyRuleTestCase.(Anon_1).configure",1
+Public Method,"org.apache.commons.digester3.SetPropertyRuleTestCase.setUp",1
+Public Method,"org.apache.commons.digester3.SetPropertyRuleTestCase.tearDown",1
+Public Method,"org.apache.commons.digester3.SetPropertyRuleTestCase.testElementWithNoAttributes",1
+Public Method,"org.apache.commons.digester3.SetPropertyRuleTestCase.testNegative",8
+Public Method,"org.apache.commons.digester3.SetPropertyRuleTestCase.testPositive",1
+Private Method,"org.apache.commons.digester3.SetPropertyRuleTestCase.xmlTestReader",1
+Public Constructor,"org.apache.commons.digester3.SetRootRule.SetRootRule",1
+Public Constructor,"org.apache.commons.digester3.SetRootRule.SetRootRule",1
+Public Constructor,"org.apache.commons.digester3.SetRootRule.SetRootRule",1
+Protected Method,"org.apache.commons.digester3.SetRootRule.getChild",1
+Protected Method,"org.apache.commons.digester3.SetRootRule.getParent",1
+Public Constructor,"org.apache.commons.digester3.SetTopRule.SetTopRule",1
+Public Constructor,"org.apache.commons.digester3.SetTopRule.SetTopRule",1
+Public Constructor,"org.apache.commons.digester3.SetTopRule.SetTopRule",1
+Protected Method,"org.apache.commons.digester3.SetTopRule.getChild",1
+Protected Method,"org.apache.commons.digester3.SetTopRule.getParent",1
+Public Method,"org.apache.commons.digester3.SimpleRegexMatcher.getLog",1
+Public Method,"org.apache.commons.digester3.SimpleRegexMatcher.match",2
+Private Method,"org.apache.commons.digester3.SimpleRegexMatcher.match",14
+Public Method,"org.apache.commons.digester3.SimpleRegexMatcher.setLog",1
+Public Method,"org.apache.commons.digester3.SimpleTestBean.getAlpha",1
+Public Method,"org.apache.commons.digester3.SimpleTestBean.getBeta",1
+Public Method,"org.apache.commons.digester3.SimpleTestBean.getDeltaValue",1
+Public Method,"org.apache.commons.digester3.SimpleTestBean.getGamma",1
+Public Method,"org.apache.commons.digester3.SimpleTestBean.setAlpha",1
+Public Method,"org.apache.commons.digester3.SimpleTestBean.setAlphaBeta",1
+Public Method,"org.apache.commons.digester3.SimpleTestBean.setBeta",1
+Public Method,"org.apache.commons.digester3.SimpleTestBean.setDelta",1
+Public Method,"org.apache.commons.digester3.SimpleTestBean.setGamma",1
+Public Method,"org.apache.commons.digester3.SimpleTestBean.toString",1
+Abstract Generic Method,"org.apache.commons.digester3.StackAction.onPop",0
+Abstract Generic Method,"org.apache.commons.digester3.StackAction.onPush",0
+Public Abstract Method,"org.apache.commons.digester3.Substitutor.substitute",0
+Public Abstract Method,"org.apache.commons.digester3.Substitutor.substitute",0
+Public Constructor,"org.apache.commons.digester3.TestBean.TestBean",1
+Public Constructor,"org.apache.commons.digester3.TestBean.TestBean",1
+Public Constructor,"org.apache.commons.digester3.TestBean.TestBean",1
+Public Method,"org.apache.commons.digester3.TestBean.getBooleanProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.getDoubleProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.getEmptyStringProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.getFalseProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.getFloatProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.getIntArray",1
+Public Method,"org.apache.commons.digester3.TestBean.getIntIndexed",1
+Public Method,"org.apache.commons.digester3.TestBean.getIntMultibox",1
+Public Method,"org.apache.commons.digester3.TestBean.getIntProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.getLongProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.getMultipleSelect",1
+Public Method,"org.apache.commons.digester3.TestBean.getNested",2
+Public Method,"org.apache.commons.digester3.TestBean.getNullProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.getShortProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.getSingleSelect",1
+Public Method,"org.apache.commons.digester3.TestBean.getStringArray",1
+Public Method,"org.apache.commons.digester3.TestBean.getStringIndexed",1
+Public Method,"org.apache.commons.digester3.TestBean.getStringProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.setBooleanProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.setDoubleProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.setEmptyStringProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.setFalseProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.setFloatProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.setIntArray",1
+Public Method,"org.apache.commons.digester3.TestBean.setIntIndexed",1
+Public Method,"org.apache.commons.digester3.TestBean.setIntMultibox",1
+Public Method,"org.apache.commons.digester3.TestBean.setIntProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.setLongProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.setMultipleSelect",1
+Public Method,"org.apache.commons.digester3.TestBean.setNullProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.setShortProperty",1
+Public Method,"org.apache.commons.digester3.TestBean.setSingleSelect",1
+Public Method,"org.apache.commons.digester3.TestBean.setStringArray",1
+Public Method,"org.apache.commons.digester3.TestBean.setStringIndexed",1
+Public Method,"org.apache.commons.digester3.TestBean.setStringProperty",1
+Public Method,"org.apache.commons.digester3.TestEntityResolution.testDigesterResolveRelative",1
+Public Method,"org.apache.commons.digester3.TestEntityResolution.testParserResolveRelative",1
+Public Constructor,"org.apache.commons.digester3.TestFactoryCreate.TestFactoryCreate",1
+Public Static Method,"org.apache.commons.digester3.TestFactoryCreate.data",1
+Public Method,"org.apache.commons.digester3.TestFactoryCreate.testFactoryCreateRule",1
+Public Method,"org.apache.commons.digester3.TestFactoryCreate.testPropagateException",4
+Public Method,"org.apache.commons.digester3.TestFactoryCreate.testPropagateException.ThrowExceptionCreateRule.createObject",1
+Public Constructor,"org.apache.commons.digester3.TestRule.TestRule",1
+Public Constructor,"org.apache.commons.digester3.TestRule.TestRule",1
+Public Constructor,"org.apache.commons.digester3.TestRule.TestRuleProvider.TestRuleProvider",1
+Public Constructor,"org.apache.commons.digester3.TestRule.TestRuleProvider.TestRuleProvider",1
+Public Method,"org.apache.commons.digester3.TestRule.TestRuleProvider.get",1
+Protected Method,"org.apache.commons.digester3.TestRule.appendCall",2
+Public Method,"org.apache.commons.digester3.TestRule.begin",1
+Public Method,"org.apache.commons.digester3.TestRule.body",1
+Public Method,"org.apache.commons.digester3.TestRule.end",1
+Public Method,"org.apache.commons.digester3.TestRule.getBodyText",1
+Public Method,"org.apache.commons.digester3.TestRule.getIdentifier",1
+Public Method,"org.apache.commons.digester3.TestRule.getOrder",1
+Public Method,"org.apache.commons.digester3.TestRule.setOrder",1
+Public Method,"org.apache.commons.digester3.TestRule.toString",1
+Public Constructor,"org.apache.commons.digester3.TestRuleSet.TestRuleSet",1
+Public Constructor,"org.apache.commons.digester3.TestRuleSet.TestRuleSet",2
+Public Constructor,"org.apache.commons.digester3.TestRuleSet.TestRuleSet",1
+Public Method,"org.apache.commons.digester3.TestRuleSet.addRuleInstances",1
+Public Method,"org.apache.commons.digester3.URLTestCase.setUp",1
+Public Method,"org.apache.commons.digester3.URLTestCase.tearDown",1
+Public Method,"org.apache.commons.digester3.URLTestCase.testPristine",1
+Public Method,"org.apache.commons.digester3.URLTestCase.testResource",1
+Public Constructor,"org.apache.commons.digester3.WithDefaultsRulesWrapper.WithDefaultsRulesWrapper",2
+Public Method,"org.apache.commons.digester3.WithDefaultsRulesWrapper.add",1
+Public Method,"org.apache.commons.digester3.WithDefaultsRulesWrapper.addDefault",3
+Public Method,"org.apache.commons.digester3.WithDefaultsRulesWrapper.clear",1
+Public Method,"org.apache.commons.digester3.WithDefaultsRulesWrapper.getDefaults",1
+Public Method,"org.apache.commons.digester3.WithDefaultsRulesWrapper.getDigester",1
+Public Method,"org.apache.commons.digester3.WithDefaultsRulesWrapper.getNamespaceURI",1
+Public Method,"org.apache.commons.digester3.WithDefaultsRulesWrapper.match",2
+Public Method,"org.apache.commons.digester3.WithDefaultsRulesWrapper.rules",1
+Public Method,"org.apache.commons.digester3.WithDefaultsRulesWrapper.setDigester",2
+Public Method,"org.apache.commons.digester3.WithDefaultsRulesWrapper.setNamespaceURI",1
+Public Method,"org.apache.commons.digester3.WithDefaultsRulesWrapperTestCase.testClear",1
+Public Method,"org.apache.commons.digester3.WithDefaultsRulesWrapperTestCase.testMatch",1
+Public Method,"org.apache.commons.digester3.WithDefaultsRulesWrapperTestCase.testRules",1
+Protected Method,"org.apache.commons.digester3.XIncludeTestCase.getInputStream",1
+Public Method,"org.apache.commons.digester3.XIncludeTestCase.testXInclude",1
+Protected Method,"org.apache.commons.digester3.XIncludeTestCase.testXInclude.(Anon_1).configure",1
+Public Constructor,"org.apache.commons.digester3.XMLSchemaTestCase.TestErrorHandler.TestErrorHandler",1
+Public Method,"org.apache.commons.digester3.XMLSchemaTestCase.TestErrorHandler.error",1
+Public Method,"org.apache.commons.digester3.XMLSchemaTestCase.TestErrorHandler.fatalError",1
+Public Method,"org.apache.commons.digester3.XMLSchemaTestCase.TestErrorHandler.warning",1
+Protected Method,"org.apache.commons.digester3.XMLSchemaTestCase.getInputStream",1
+Public Method,"org.apache.commons.digester3.XMLSchemaTestCase.setUp",1
+Public Method,"org.apache.commons.digester3.XMLSchemaTestCase.tearDown",1
+Public Method,"org.apache.commons.digester3.XMLSchemaTestCase.testBadDocument",1
+Public Method,"org.apache.commons.digester3.XMLSchemaTestCase.testGoodDocument",1
+Protected Method,"org.apache.commons.digester3.annotations.AbstractAnnotatedPojoTestCase.getAuxModules",1
+Public Method,"org.apache.commons.digester3.annotations.AbstractAnnotatedPojoTestCase.verifyExpectedEqualsToParsed",2
+Protected Method,"org.apache.commons.digester3.annotations.AbstractAnnotatedPojoTestCase.verifyExpectedEqualsToParsed.(Anon_1).configureRules",1
+Abstract Method,"org.apache.commons.digester3.annotations.AnnotationHandler.handle",0
+Abstract Generic Method,"org.apache.commons.digester3.annotations.AnnotationHandlerFactory.newInstance",0
+Public Generic Method,"org.apache.commons.digester3.annotations.DefaultAnnotationHandlerFactory.newInstance",1
+Abstract Method,"org.apache.commons.digester3.annotations.DigesterRule.handledBy",0
+Abstract Method,"org.apache.commons.digester3.annotations.DigesterRule.reflectsRule",0
+Protected Method,"org.apache.commons.digester3.annotations.FromAnnotationsRuleModule.bindRulesFrom",3
+Public Method,"org.apache.commons.digester3.annotations.FromAnnotationsRuleModule.bindRulesFrom.(Anon_1).run",1
+Public Method,"org.apache.commons.digester3.annotations.FromAnnotationsRuleModule.bindRulesFrom.(Anon_2).run",1
+Public Method,"org.apache.commons.digester3.annotations.FromAnnotationsRuleModule.bindRulesFrom.(Anon_3).run",1
+Protected Method,"org.apache.commons.digester3.annotations.FromAnnotationsRuleModule.configure",2
+Protected Abstract Method,"org.apache.commons.digester3.annotations.FromAnnotationsRuleModule.configureRules",0
+Private Generic Method,"org.apache.commons.digester3.annotations.FromAnnotationsRuleModule.handle",6
+Protected Method,"org.apache.commons.digester3.annotations.FromAnnotationsRuleModule.useAnnotationHandlerFactory",2
+Protected Method,"org.apache.commons.digester3.annotations.FromAnnotationsRuleModule.useDefaultAnnotationHandlerFactory",1
+Private Generic Method,"org.apache.commons.digester3.annotations.FromAnnotationsRuleModule.visitElements",2
+Private Method,"org.apache.commons.digester3.annotations.FromAnnotationsRuleModule.visitElements",6
+Public Constructor,"org.apache.commons.digester3.annotations.WithMemoryRulesBinder.WithMemoryRulesBinder",1
+Public Method,"org.apache.commons.digester3.annotations.WithMemoryRulesBinder.addError",1
+Public Method,"org.apache.commons.digester3.annotations.WithMemoryRulesBinder.addError",1
+Public Method,"org.apache.commons.digester3.annotations.WithMemoryRulesBinder.forPattern",1
+Public Method,"org.apache.commons.digester3.annotations.WithMemoryRulesBinder.getContextClassLoader",1
+Public Method,"org.apache.commons.digester3.annotations.WithMemoryRulesBinder.install",1
+Public Method,"org.apache.commons.digester3.annotations.WithMemoryRulesBinder.isAlreadyBound",1
+Public Method,"org.apache.commons.digester3.annotations.WithMemoryRulesBinder.markAsBound",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Address.equals",22
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Address.getCity",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Address.getCountry",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Address.getState",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Address.getStreet",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Address.getType",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Address.getZip",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Address.setCity",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Address.setCountry",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Address.setState",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Address.setStreet",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Address.setType",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Address.setZip",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Address.toString",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.AddressBook.addPerson",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.AddressBook.equals",7
+Public Method,"org.apache.commons.digester3.annotations.addressbook.AddressBook.toString",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.AddressBookTestCase.testAddressBook",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Person.addAddress",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Person.addEmail",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Person.equals",17
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Person.getAddresses",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Person.getCategory",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Person.getEmails",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Person.getId",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Person.getName",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Person.setCategory",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Person.setId",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Person.setName",1
+Public Method,"org.apache.commons.digester3.annotations.addressbook.Person.toString",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Entry.getContent",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Entry.getId",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Entry.getLink",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Entry.getTitle",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Entry.getUpdated",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Entry.setContent",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Entry.setId",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Entry.setLink",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Entry.setTitle",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Entry.setUpdated",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Entry.toString",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Feed.addAuthor",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Feed.addEntry",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Feed.getAuthors",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Feed.getEntries",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Feed.getId",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Feed.getLink",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Feed.getTitle",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Feed.getUpdated",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Feed.setId",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Feed.setLink",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Feed.setTitle",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Feed.setUpdated",1
+Public Method,"org.apache.commons.digester3.annotations.atom.Feed.toString",1
+Public Static Method,"org.apache.commons.digester3.annotations.atom.Main.main",4
+Protected Method,"org.apache.commons.digester3.annotations.atom.Main.main.(Anon_1).configureRules",1
+Private Static Method,"org.apache.commons.digester3.annotations.atom.Main.usage",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.AudioVisual.equals",15
+Public Method,"org.apache.commons.digester3.annotations.catalog.AudioVisual.getCategory",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.AudioVisual.getDesc",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.AudioVisual.getName",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.AudioVisual.getRuntime",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.AudioVisual.getYearMade",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.AudioVisual.print",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.AudioVisual.setCategory",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.AudioVisual.setDesc",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.AudioVisual.setName",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.AudioVisual.setRuntime",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.AudioVisual.setYearMade",1
+Public Constructor,"org.apache.commons.digester3.annotations.catalog.Book.Book",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.Book.equals",16
+Public Method,"org.apache.commons.digester3.annotations.catalog.Book.getAuthor",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.Book.getDesc",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.Book.getIsbn",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.Book.getTitle",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.Book.print",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.Book.setAuthor",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.Book.setDesc",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.Book.setTitle",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.Book.toString",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.BookFactory.createObject",2
+Public Method,"org.apache.commons.digester3.annotations.catalog.Catalog.addItem",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.Catalog.equals",7
+Public Method,"org.apache.commons.digester3.annotations.catalog.Catalog.getItems",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.Catalog.print",2
+Public Method,"org.apache.commons.digester3.annotations.catalog.Catalog.toString",1
+Protected Method,"org.apache.commons.digester3.annotations.catalog.CatalogTestCase.getAuxModules",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.CatalogTestCase.getAuxModules.(Anon_1).configure",1
+Public Method,"org.apache.commons.digester3.annotations.catalog.CatalogTestCase.testCatalog",1
+Abstract Method,"org.apache.commons.digester3.annotations.catalog.Item.print",0
+Public Method,"org.apache.commons.digester3.annotations.employee.Address.equals",19
+Public Method,"org.apache.commons.digester3.annotations.employee.Address.getCity",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Address.getState",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Address.getStreet",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Address.getType",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Address.getZipCode",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Address.setCity",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Address.setEmployee",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Address.setState",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Address.setStreet",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Address.setType",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Address.setZipCode",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Address.toString",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Employee.addAddress",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Employee.equals",13
+Public Method,"org.apache.commons.digester3.annotations.employee.Employee.getAddresses",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Employee.getFirstName",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Employee.getLastName",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Employee.setFirstName",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Employee.setLastName",1
+Public Method,"org.apache.commons.digester3.annotations.employee.Employee.toString",1
+Protected Method,"org.apache.commons.digester3.annotations.employee.EmployeeTestCase.getAuxModules",1
+Protected Method,"org.apache.commons.digester3.annotations.employee.EmployeeTestCase.getAuxModules.(Anon_1).configureRules",1
+Public Method,"org.apache.commons.digester3.annotations.employee.EmployeeTestCase.testEmployee",1
+Public Method,"org.apache.commons.digester3.annotations.failingtests.BeanWithFakeHandler.getSomething",1
+Public Method,"org.apache.commons.digester3.annotations.failingtests.BeanWithFakeHandler.setSomething",1
+Public Generic Method,"org.apache.commons.digester3.annotations.failingtests.FailingDigesterLoaderHandlerFactory.newInstance",1
+Public Method,"org.apache.commons.digester3.annotations.failingtests.FailingTestCase.failsBecauseFailingDigesterLoaderHandlerFactory",1
+Protected Method,"org.apache.commons.digester3.annotations.failingtests.FailingTestCase.failsBecauseFailingDigesterLoaderHandlerFactory.(Anon_1).configureRules",1
+Public Method,"org.apache.commons.digester3.annotations.failingtests.FakeHandler.handle",1
+Protected Abstract Method,"org.apache.commons.digester3.annotations.handlers.AbstractMethodHandler.doBind",0
+Private Method,"org.apache.commons.digester3.annotations.handlers.AbstractMethodHandler.doHandle",5
+Private Method,"org.apache.commons.digester3.annotations.handlers.AbstractMethodHandler.doHandle",5
+Protected Method,"org.apache.commons.digester3.annotations.handlers.AbstractMethodHandler.doHandle.(Anon_1).configureRules",1
+Public Method,"org.apache.commons.digester3.annotations.handlers.AbstractMethodHandler.handle",6
+Public Method,"org.apache.commons.digester3.annotations.handlers.BeanPropertySetterHandler.handle",1
+Public Method,"org.apache.commons.digester3.annotations.handlers.CallMethodHandler.handle",2
+Public Method,"org.apache.commons.digester3.annotations.handlers.CallParamHandler.handle",3
+Public Method,"org.apache.commons.digester3.annotations.handlers.FactoryCreateHandler.handle",3
+Public Method,"org.apache.commons.digester3.annotations.handlers.ObjectCreateHandler.handle",5
+Public Method,"org.apache.commons.digester3.annotations.handlers.PathCallParamHandler.handle",1
+Protected Method,"org.apache.commons.digester3.annotations.handlers.SetNextHandler.doBind",1
+Public Method,"org.apache.commons.digester3.annotations.handlers.SetPropertiesHandler.handle",2
+Protected Method,"org.apache.commons.digester3.annotations.handlers.SetRootHandler.doBind",1
+Public Method,"org.apache.commons.digester3.annotations.handlers.SetTopHandler.handle",3
+Public Method,"org.apache.commons.digester3.annotations.person.Person.addEmail",1
+Public Method,"org.apache.commons.digester3.annotations.person.Person.equals",14
+Public Method,"org.apache.commons.digester3.annotations.person.Person.getCategory",1
+Public Method,"org.apache.commons.digester3.annotations.person.Person.getEmails",1
+Public Method,"org.apache.commons.digester3.annotations.person.Person.getId",1
+Public Method,"org.apache.commons.digester3.annotations.person.Person.getName",1
+Public Method,"org.apache.commons.digester3.annotations.person.Person.setCategory",1
+Public Method,"org.apache.commons.digester3.annotations.person.Person.setId",1
+Public Method,"org.apache.commons.digester3.annotations.person.Person.setName",1
+Public Method,"org.apache.commons.digester3.annotations.person.Person.toString",1
+Public Method,"org.apache.commons.digester3.annotations.person.PersonTestCase.testPerson",1
+Public Constructor,"org.apache.commons.digester3.annotations.reflect.MethodArgument.MethodArgument",3
+Public Generic Method,"org.apache.commons.digester3.annotations.reflect.MethodArgument.getAnnotation",3
+Public Method,"org.apache.commons.digester3.annotations.reflect.MethodArgument.getAnnotations",1
+Private Method,"org.apache.commons.digester3.annotations.reflect.MethodArgument.getAnnotationsArrayCopy",1
+Public Method,"org.apache.commons.digester3.annotations.reflect.MethodArgument.getDeclaredAnnotations",1
+Public Method,"org.apache.commons.digester3.annotations.reflect.MethodArgument.getIndex",1
+Public Method,"org.apache.commons.digester3.annotations.reflect.MethodArgument.getParameterType",1
+Public Method,"org.apache.commons.digester3.annotations.reflect.MethodArgument.isAnnotationPresent",3
+Public Method,"org.apache.commons.digester3.annotations.rss.Channel.addItem",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Channel.equals",22
+Public Method,"org.apache.commons.digester3.annotations.rss.Channel.getDescription",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Channel.getImage",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Channel.getItems",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Channel.getLanguage",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Channel.getLink",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Channel.getTitle",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Channel.setDescription",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Channel.setImage",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Channel.setLanguage",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Channel.setLink",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Channel.setTitle",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Channel.toString",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Image.equals",18
+Public Method,"org.apache.commons.digester3.annotations.rss.Image.getDescription",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Image.getHeight",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Image.getLink",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Image.getTitle",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Image.getUrl",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Image.getWidth",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Image.setDescription",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Image.setHeight",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Image.setLink",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Image.setTitle",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Image.setUrl",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Image.setWidth",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Image.toString",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Item.equals",13
+Public Method,"org.apache.commons.digester3.annotations.rss.Item.getDescription",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Item.getLink",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Item.getTitle",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Item.setDescription",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Item.setLink",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Item.setTitle",1
+Public Method,"org.apache.commons.digester3.annotations.rss.Item.toString",1
+Public Method,"org.apache.commons.digester3.annotations.rss.RssTestCase.testRss",1
+Abstract Method,"org.apache.commons.digester3.annotations.rules.BeanPropertySetter.List.value",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.BeanPropertySetter.namespaceURI",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.BeanPropertySetter.pattern",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.CallMethod.List.value",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.CallMethod.namespaceURI",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.CallMethod.pattern",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.CallMethod.usingElementBodyAsArgument",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.CallParam.List.value",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.CallParam.attributeName",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.CallParam.fromStack",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.CallParam.namespaceURI",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.CallParam.pattern",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.CallParam.stackIndex",0
+Public Method,"org.apache.commons.digester3.annotations.rules.FactoryCreate.DefaultObjectCreationFactory.createObject",1
+Abstract Method,"org.apache.commons.digester3.annotations.rules.FactoryCreate.List.value",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.FactoryCreate.attributeName",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.FactoryCreate.factoryClass",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.FactoryCreate.ignoreCreateExceptions",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.FactoryCreate.namespaceURI",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.FactoryCreate.pattern",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.ObjectCreate.List.value",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.ObjectCreate.attributeName",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.ObjectCreate.namespaceURI",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.ObjectCreate.pattern",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.PathCallParam.List.value",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.PathCallParam.namespaceURI",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.PathCallParam.pattern",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.SetNext.fireOnBegin",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.SetNext.value",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.SetProperty.List.value",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.SetProperty.attributeName",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.SetProperty.namespaceURI",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.SetProperty.pattern",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.SetRoot.fireOnBegin",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.SetRoot.value",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.SetTop.List.value",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.SetTop.fireOnBegin",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.SetTop.namespaceURI",0
+Abstract Method,"org.apache.commons.digester3.annotations.rules.SetTop.pattern",0
+Public Method,"org.apache.commons.digester3.annotations.servletbean.ServletBean.addInitParam",1
+Public Method,"org.apache.commons.digester3.annotations.servletbean.ServletBean.equals",13
+Public Method,"org.apache.commons.digester3.annotations.servletbean.ServletBean.getInitParams",1
+Public Method,"org.apache.commons.digester3.annotations.servletbean.ServletBean.getServletClass",1
+Public Method,"org.apache.commons.digester3.annotations.servletbean.ServletBean.getServletName",1
+Public Method,"org.apache.commons.digester3.annotations.servletbean.ServletBean.setServletClass",1
+Public Method,"org.apache.commons.digester3.annotations.servletbean.ServletBean.setServletName",1
+Public Method,"org.apache.commons.digester3.annotations.servletbean.ServletBean.toString",1
+Public Method,"org.apache.commons.digester3.annotations.servletbean.ServletBeanTestCase.testServletBean",1
+Private Constructor,"org.apache.commons.digester3.annotations.utils.AnnotationUtils.AnnotationUtils",1
+Public Static Method,"org.apache.commons.digester3.annotations.utils.AnnotationUtils.getAnnotationNamespaceURI",2
+Public Static Method,"org.apache.commons.digester3.annotations.utils.AnnotationUtils.getAnnotationPattern",2
+Public Static Method,"org.apache.commons.digester3.annotations.utils.AnnotationUtils.getAnnotationValue",1
+Public Static Method,"org.apache.commons.digester3.annotations.utils.AnnotationUtils.getAnnotationsArrayValue",2
+Public Static Method,"org.apache.commons.digester3.annotations.utils.AnnotationUtils.getFireOnBegin",2
+Private Static Method,"org.apache.commons.digester3.annotations.utils.AnnotationUtils.invokeAnnotationMethod",2
+Constructor,"org.apache.commons.digester3.binder.AbstractBackToLinkedRuleBuilder.AbstractBackToLinkedRuleBuilder",1
+Protected Abstract Method,"org.apache.commons.digester3.binder.AbstractBackToLinkedRuleBuilder.createRule",0
+Public Method,"org.apache.commons.digester3.binder.AbstractBackToLinkedRuleBuilder.get",2
+Public Method,"org.apache.commons.digester3.binder.AbstractBackToLinkedRuleBuilder.getNamespaceURI",1
+Public Method,"org.apache.commons.digester3.binder.AbstractBackToLinkedRuleBuilder.getPattern",1
+Protected Method,"org.apache.commons.digester3.binder.AbstractBackToLinkedRuleBuilder.reportError",1
+Public Method,"org.apache.commons.digester3.binder.AbstractBackToLinkedRuleBuilder.then",1
+Public Constructor,"org.apache.commons.digester3.binder.AbstractNamespaceURIBasedRulesModule.AbstractNamespaceURIBasedRulesModule",1
+Protected Method,"org.apache.commons.digester3.binder.AbstractNamespaceURIBasedRulesModule.forPattern",1
+Constructor,"org.apache.commons.digester3.binder.AbstractParamTypeBuilder.AbstractParamTypeBuilder",1
+Public Method,"org.apache.commons.digester3.binder.AbstractParamTypeBuilder.fireOnBegin",1
+Method,"org.apache.commons.digester3.binder.AbstractParamTypeBuilder.getMethodName",1
+Method,"org.apache.commons.digester3.binder.AbstractParamTypeBuilder.getParamType",1
+Method,"org.apache.commons.digester3.binder.AbstractParamTypeBuilder.isFireOnBegin",1
+Method,"org.apache.commons.digester3.binder.AbstractParamTypeBuilder.isUseExactMatch",1
+Public Method,"org.apache.commons.digester3.binder.AbstractParamTypeBuilder.useExactMatch",1
+Public Method,"org.apache.commons.digester3.binder.AbstractParamTypeBuilder.withParameterType",4
+Public Method,"org.apache.commons.digester3.binder.AbstractParamTypeBuilder.withParameterType",2
+Protected Method,"org.apache.commons.digester3.binder.AbstractRulesModule.addError",1
+Protected Method,"org.apache.commons.digester3.binder.AbstractRulesModule.addError",1
+Protected Abstract Method,"org.apache.commons.digester3.binder.AbstractRulesModule.configure",0
+Public Method,"org.apache.commons.digester3.binder.AbstractRulesModule.configure",2
+Protected Method,"org.apache.commons.digester3.binder.AbstractRulesModule.forPattern",1
+Protected Method,"org.apache.commons.digester3.binder.AbstractRulesModule.install",1
+Protected Method,"org.apache.commons.digester3.binder.AbstractRulesModule.rulesBinder",1
+Constructor,"org.apache.commons.digester3.binder.AddAliasBuilder.AddAliasBuilder",1
+Public Method,"org.apache.commons.digester3.binder.AddAliasBuilder.forProperty",2
+Constructor,"org.apache.commons.digester3.binder.BeanPropertySetterBuilder.BeanPropertySetterBuilder",1
+Protected Method,"org.apache.commons.digester3.binder.BeanPropertySetterBuilder.createRule",1
+Public Method,"org.apache.commons.digester3.binder.BeanPropertySetterBuilder.extractPropertyNameFromAttribute",2
+Public Method,"org.apache.commons.digester3.binder.BeanPropertySetterBuilder.withName",1
+Private Constructor,"org.apache.commons.digester3.binder.BinderClassLoader.BinderClassLoader",1
+Public Static Method,"org.apache.commons.digester3.binder.BinderClassLoader.createBinderClassLoader",2
+Public Method,"org.apache.commons.digester3.binder.BinderClassLoader.createBinderClassLoader.(Anon_1).run",1
+Public Method,"org.apache.commons.digester3.binder.BinderClassLoader.getAdaptedClassLoader",1
+Protected Method,"org.apache.commons.digester3.binder.BinderClassLoader.loadClass",2
+Public Method,"org.apache.commons.digester3.binder.BinderClassLoaderTestCase.loadBoolean",1
+Public Method,"org.apache.commons.digester3.binder.BinderClassLoaderTestCase.loadByte",1
+Public Method,"org.apache.commons.digester3.binder.BinderClassLoaderTestCase.loadChar",1
+Public Method,"org.apache.commons.digester3.binder.BinderClassLoaderTestCase.loadDouble",1
+Public Method,"org.apache.commons.digester3.binder.BinderClassLoaderTestCase.loadFloat",1
+Public Method,"org.apache.commons.digester3.binder.BinderClassLoaderTestCase.loadInt",1
+Public Method,"org.apache.commons.digester3.binder.BinderClassLoaderTestCase.loadLong",1
+Public Method,"org.apache.commons.digester3.binder.BinderClassLoaderTestCase.loadShort",1
+Private Method,"org.apache.commons.digester3.binder.BinderClassLoaderTestCase.typeFound",1
+Constructor,"org.apache.commons.digester3.binder.ByRuleBuilder.ByRuleBuilder",1
+Protected Method,"org.apache.commons.digester3.binder.ByRuleBuilder.createRule",1
+Constructor,"org.apache.commons.digester3.binder.ByRuleProviderBuilder.ByRuleProviderBuilder",1
+Protected Method,"org.apache.commons.digester3.binder.ByRuleProviderBuilder.createRule",1
+Constructor,"org.apache.commons.digester3.binder.CallMethodBuilder.CallMethodBuilder",1
+Protected Method,"org.apache.commons.digester3.binder.CallMethodBuilder.createRule",1
+Public Method,"org.apache.commons.digester3.binder.CallMethodBuilder.useExactMatch",1
+Public Method,"org.apache.commons.digester3.binder.CallMethodBuilder.usingElementBodyAsArgument",1
+Public Method,"org.apache.commons.digester3.binder.CallMethodBuilder.withParamCount",5
+Public Method,"org.apache.commons.digester3.binder.CallMethodBuilder.withParamTypes",2
+Public Method,"org.apache.commons.digester3.binder.CallMethodBuilder.withParamTypes",4
+Public Method,"org.apache.commons.digester3.binder.CallMethodBuilder.withTargetOffset",1
+Constructor,"org.apache.commons.digester3.binder.CallParamBuilder.CallParamBuilder",1
+Protected Method,"org.apache.commons.digester3.binder.CallParamBuilder.createRule",2
+Public Method,"org.apache.commons.digester3.binder.CallParamBuilder.fromAttribute",1
+Public Method,"org.apache.commons.digester3.binder.CallParamBuilder.fromStack",1
+Public Method,"org.apache.commons.digester3.binder.CallParamBuilder.ofIndex",2
+Public Method,"org.apache.commons.digester3.binder.CallParamBuilder.withStackIndex",1
+Public Method,"org.apache.commons.digester3.binder.DefaultRulesBinder.addError",6
+Public Method,"org.apache.commons.digester3.binder.DefaultRulesBinder.addError",1
+Private Method,"org.apache.commons.digester3.binder.DefaultRulesBinder.addError",1
+Method,"org.apache.commons.digester3.binder.DefaultRulesBinder.errorsSize",1
+Public Method,"org.apache.commons.digester3.binder.DefaultRulesBinder.forPattern",3
+Public Method,"org.apache.commons.digester3.binder.DefaultRulesBinder.getContextClassLoader",1
+Method,"org.apache.commons.digester3.binder.DefaultRulesBinder.getErrors",1
+Method,"org.apache.commons.digester3.binder.DefaultRulesBinder.getFromBinderRuleSet",1
+Method,"org.apache.commons.digester3.binder.DefaultRulesBinder.hasError",1
+Method,"org.apache.commons.digester3.binder.DefaultRulesBinder.initialize",1
+Public Method,"org.apache.commons.digester3.binder.DefaultRulesBinder.install",1
+Private Constructor,"org.apache.commons.digester3.binder.DigesterLoader.DigesterLoader",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.addRules",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.createRuleSet",7
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.getDocumentLocator",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.getErrorHandler",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.getExecutorService",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.getRegistrations",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.isNamespaceAware",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.isValidating",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.isXIncludeAware",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.newDigester",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.newDigester",3
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.newDigester",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.newDigester",3
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.newDigester",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.newDigester",3
+Public Static Method,"org.apache.commons.digester3.binder.DigesterLoader.newLoader",2
+Public Static Method,"org.apache.commons.digester3.binder.DigesterLoader.newLoader",2
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.register",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.register",2
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.setClassLoader",2
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.setDocumentLocator",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.setEntityResolver",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.setErrorHandler",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.setExecutorService",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.setNamespaceAware",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.setSchema",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.setStackAction",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.setSubstitutor",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.setUseContextClassLoader",2
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.setValidating",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoader.setXIncludeAware",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoaderTestCase.digeser152",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoaderTestCase.digeser152.(Anon_3).getColumnNumber",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoaderTestCase.digeser152.(Anon_3).getLineNumber",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoaderTestCase.digeser152.(Anon_3).getPublicId",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoaderTestCase.digeser152.(Anon_3).getSystemId",1
+Protected Method,"org.apache.commons.digester3.binder.DigesterLoaderTestCase.digeser152.(Anon_4).configure",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoaderTestCase.digester151",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoaderTestCase.digester151.(Anon_1).error",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoaderTestCase.digester151.(Anon_1).fatalError",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoaderTestCase.digester151.(Anon_1).warning",1
+Protected Method,"org.apache.commons.digester3.binder.DigesterLoaderTestCase.digester151.(Anon_2).configure",1
+Public Method,"org.apache.commons.digester3.binder.DigesterLoaderTestCase.digester155",1
+Protected Method,"org.apache.commons.digester3.binder.DigesterLoaderTestCase.digester155.(Anon_5).configure",1
+Public Constructor,"org.apache.commons.digester3.binder.DigesterLoadingException.DigesterLoadingException",1
+Public Constructor,"org.apache.commons.digester3.binder.DigesterLoadingException.DigesterLoadingException",1
+Public Constructor,"org.apache.commons.digester3.binder.DigesterLoadingException.DigesterLoadingException",1
+Public Constructor,"org.apache.commons.digester3.binder.ErrorMessage.ErrorMessage",1
+Public Constructor,"org.apache.commons.digester3.binder.ErrorMessage.ErrorMessage",1
+Public Method,"org.apache.commons.digester3.binder.ErrorMessage.getCause",1
+Public Method,"org.apache.commons.digester3.binder.ErrorMessage.getMessage",1
+Public Method,"org.apache.commons.digester3.binder.ErrorMessage.toString",1
+Constructor,"org.apache.commons.digester3.binder.FactoryCreateBuilder.FactoryCreateBuilder",1
+Protected Method,"org.apache.commons.digester3.binder.FactoryCreateBuilder.createRule",3
+Public Method,"org.apache.commons.digester3.binder.FactoryCreateBuilder.ignoreCreateExceptions",1
+Public Method,"org.apache.commons.digester3.binder.FactoryCreateBuilder.ofType",2
+Public Method,"org.apache.commons.digester3.binder.FactoryCreateBuilder.ofType",4
+Public Method,"org.apache.commons.digester3.binder.FactoryCreateBuilder.overriddenByAttribute",1
+Public Generic Method,"org.apache.commons.digester3.binder.FactoryCreateBuilder.usingFactory",1
+Public Constructor,"org.apache.commons.digester3.binder.FromBinderRuleSet.Key.Key",1
+Public Method,"org.apache.commons.digester3.binder.FromBinderRuleSet.Key.equals",10
+Public Method,"org.apache.commons.digester3.binder.FromBinderRuleSet.Key.getNamespaceURI",1
+Public Method,"org.apache.commons.digester3.binder.FromBinderRuleSet.Key.getPattern",1
+Public Method,"org.apache.commons.digester3.binder.FromBinderRuleSet.Key.hashCode",3
+Public Method,"org.apache.commons.digester3.binder.FromBinderRuleSet.Key.toString",1
+Public Method,"org.apache.commons.digester3.binder.FromBinderRuleSet.addRuleInstances",2
+Public Method,"org.apache.commons.digester3.binder.FromBinderRuleSet.clear",1
+Public Method,"org.apache.commons.digester3.binder.FromBinderRuleSet.getNamespaceURI",1
+Public Generic Method,"org.apache.commons.digester3.binder.FromBinderRuleSet.getProvider",4
+Public Generic Method,"org.apache.commons.digester3.binder.FromBinderRuleSet.registerProvider",2
+Constructor,"org.apache.commons.digester3.binder.LinkedRuleBuilder.LinkedRuleBuilder",1
+Private Generic Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.addProvider",1
+Public Generic Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.addRule",2
+Public Generic Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.addRuleCreatedBy",2
+Public Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.callMethod",2
+Public Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.callParam",1
+Public Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.callParamPath",1
+Public Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.createNode",1
+Public Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.createObject",1
+Public Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.createPlugin",1
+Public Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.declarePlugin",1
+Public Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.factoryCreate",1
+Public Generic Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.objectParam",1
+Public Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.setBeanProperty",1
+Public Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.setNestedProperties",2
+Public Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.setNext",2
+Public Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.setProperties",2
+Public Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.setProperty",2
+Public Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.setRoot",2
+Public Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.setTop",2
+Public Method,"org.apache.commons.digester3.binder.LinkedRuleBuilder.withNamespaceURI",2
+Constructor,"org.apache.commons.digester3.binder.NestedPropertiesBuilder.NestedPropertiesBuilder",1
+Public Method,"org.apache.commons.digester3.binder.NestedPropertiesBuilder.addAlias",2
+Public Method,"org.apache.commons.digester3.binder.NestedPropertiesBuilder.addAlias",1
+Public Method,"org.apache.commons.digester3.binder.NestedPropertiesBuilder.allowUnknownChildElements",1
+Protected Method,"org.apache.commons.digester3.binder.NestedPropertiesBuilder.createRule",1
+Public Method,"org.apache.commons.digester3.binder.NestedPropertiesBuilder.ignoreElement",2
+Public Method,"org.apache.commons.digester3.binder.NestedPropertiesBuilder.trimData",1
+Constructor,"org.apache.commons.digester3.binder.NodeCreateRuleProvider.NodeCreateRuleProvider",1
+Private Constructor,"org.apache.commons.digester3.binder.NodeCreateRuleProvider.NodeType.NodeType",1
+Private Method,"org.apache.commons.digester3.binder.NodeCreateRuleProvider.NodeType.getDocumentType",1
+Public Method,"org.apache.commons.digester3.binder.NodeCreateRuleProvider.NodeType.valueOf",1
+Public Method,"org.apache.commons.digester3.binder.NodeCreateRuleProvider.NodeType.values",1
+Protected Method,"org.apache.commons.digester3.binder.NodeCreateRuleProvider.createRule",3
+Public Method,"org.apache.commons.digester3.binder.NodeCreateRuleProvider.ofType",2
+Public Method,"org.apache.commons.digester3.binder.NodeCreateRuleProvider.usingDocumentBuilder",1
+Constructor,"org.apache.commons.digester3.binder.ObjectCreateBuilder.ObjectCreateBuilder",1
+Protected Method,"org.apache.commons.digester3.binder.ObjectCreateBuilder.createRule",3
+Public Method,"org.apache.commons.digester3.binder.ObjectCreateBuilder.ofType",3
+Public Generic Method,"org.apache.commons.digester3.binder.ObjectCreateBuilder.ofType",2
+Public Method,"org.apache.commons.digester3.binder.ObjectCreateBuilder.ofTypeSpecifiedByAttribute",1
+Public Method,"org.apache.commons.digester3.binder.ObjectCreateBuilder.usingConstructor",4
+Public Method,"org.apache.commons.digester3.binder.ObjectCreateBuilder.usingConstructor",2
+Public Method,"org.apache.commons.digester3.binder.ObjectCreateBuilder.usingDefaultConstructorArguments",2
+Constructor,"org.apache.commons.digester3.binder.ObjectParamBuilder.ObjectParamBuilder",1
+Protected Method,"org.apache.commons.digester3.binder.ObjectParamBuilder.createRule",1
+Public Method,"org.apache.commons.digester3.binder.ObjectParamBuilder.matchingAttribute",1
+Public Method,"org.apache.commons.digester3.binder.ObjectParamBuilder.ofIndex",2
+Constructor,"org.apache.commons.digester3.binder.PathCallParamBuilder.PathCallParamBuilder",1
+Protected Method,"org.apache.commons.digester3.binder.PathCallParamBuilder.createRule",1
+Public Method,"org.apache.commons.digester3.binder.PathCallParamBuilder.ofIndex",2
+Constructor,"org.apache.commons.digester3.binder.PluginCreateRuleBuilder.PluginCreateRuleBuilder",1
+Private Method,"org.apache.commons.digester3.binder.PluginCreateRuleBuilder.addToMap",1
+Protected Method,"org.apache.commons.digester3.binder.PluginCreateRuleBuilder.createRule",6
+Public Generic Method,"org.apache.commons.digester3.binder.PluginCreateRuleBuilder.ofType",2
+Public Method,"org.apache.commons.digester3.binder.PluginCreateRuleBuilder.setPluginClassAttribute",2
+Public Method,"org.apache.commons.digester3.binder.PluginCreateRuleBuilder.setPluginClassAttribute",2
+Public Method,"org.apache.commons.digester3.binder.PluginCreateRuleBuilder.setPluginIdAttribute",2
+Public Method,"org.apache.commons.digester3.binder.PluginCreateRuleBuilder.setPluginIdAttribute",2
+Public Generic Method,"org.apache.commons.digester3.binder.PluginCreateRuleBuilder.usingDefaultPluginClass",1
+Public Generic Method,"org.apache.commons.digester3.binder.PluginCreateRuleBuilder.usingRuleLoader",1
+Constructor,"org.apache.commons.digester3.binder.PluginDeclarationRuleBuilder.PluginDeclarationRuleBuilder",1
+Protected Method,"org.apache.commons.digester3.binder.PluginDeclarationRuleBuilder.createRule",1
+Abstract Method,"org.apache.commons.digester3.binder.RuleProvider.get",0
+Abstract Method,"org.apache.commons.digester3.binder.RulesBinder.addError",0
+Abstract Method,"org.apache.commons.digester3.binder.RulesBinder.addError",0
+Abstract Method,"org.apache.commons.digester3.binder.RulesBinder.forPattern",0
+Abstract Method,"org.apache.commons.digester3.binder.RulesBinder.getContextClassLoader",0
+Abstract Method,"org.apache.commons.digester3.binder.RulesBinder.install",0
+Abstract Method,"org.apache.commons.digester3.binder.RulesModule.configure",0
+Constructor,"org.apache.commons.digester3.binder.SetNextBuilder.SetNextBuilder",1
+Protected Method,"org.apache.commons.digester3.binder.SetNextBuilder.createRule",2
+Constructor,"org.apache.commons.digester3.binder.SetPropertiesBuilder.SetPropertiesBuilder",1
+Public Method,"org.apache.commons.digester3.binder.SetPropertiesBuilder.addAlias",2
+Public Method,"org.apache.commons.digester3.binder.SetPropertiesBuilder.addAlias",1
+Protected Method,"org.apache.commons.digester3.binder.SetPropertiesBuilder.createRule",1
+Public Method,"org.apache.commons.digester3.binder.SetPropertiesBuilder.ignoreAttribute",2
+Public Method,"org.apache.commons.digester3.binder.SetPropertiesBuilder.ignoreMissingProperty",1
+Constructor,"org.apache.commons.digester3.binder.SetPropertyBuilder.SetPropertyBuilder",1
+Protected Method,"org.apache.commons.digester3.binder.SetPropertyBuilder.createRule",1
+Public Method,"org.apache.commons.digester3.binder.SetPropertyBuilder.extractingValueFromAttribute",2
+Constructor,"org.apache.commons.digester3.binder.SetRootBuilder.SetRootBuilder",1
+Protected Method,"org.apache.commons.digester3.binder.SetRootBuilder.createRule",2
+Constructor,"org.apache.commons.digester3.binder.SetTopBuilder.SetTopBuilder",1
+Protected Method,"org.apache.commons.digester3.binder.SetTopBuilder.createRule",2
+Protected Method,"org.apache.commons.digester3.edsl.atom.AtomRulesModule.configure",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Entry.getContent",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Entry.getId",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Entry.getLink",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Entry.getTitle",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Entry.getUpdated",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Entry.setContent",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Entry.setId",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Entry.setLink",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Entry.setTitle",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Entry.setUpdated",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Entry.toString",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Feed.addAuthor",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Feed.addEntry",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Feed.getAuthors",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Feed.getEntries",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Feed.getId",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Feed.getLink",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Feed.getTitle",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Feed.getUpdated",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Feed.setId",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Feed.setLink",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Feed.setTitle",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Feed.setUpdated",1
+Public Method,"org.apache.commons.digester3.edsl.atom.Feed.toString",1
+Public Static Method,"org.apache.commons.digester3.edsl.atom.Main.main",4
+Private Static Method,"org.apache.commons.digester3.edsl.atom.Main.usage",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Address.getCity",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Address.getCountry",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Address.getState",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Address.getStreet",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Address.getType",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Address.getZip",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Address.print",2
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Address.setCity",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Address.setCountry",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Address.setState",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Address.setStreet",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Address.setType",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Address.setZip",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Address.toString",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.AddressBook.addPerson",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.AddressBook.print",2
+Private Static Method,"org.apache.commons.digester3.examples.api.addressbook.Main.addRules",1
+Public Static Method,"org.apache.commons.digester3.examples.api.addressbook.Main.main",4
+Private Static Method,"org.apache.commons.digester3.examples.api.addressbook.Main.usage",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Person.addAddress",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Person.addEmail",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Person.print",3
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Person.setCategory",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Person.setId",1
+Public Method,"org.apache.commons.digester3.examples.api.addressbook.Person.setName",1
+Public Method,"org.apache.commons.digester3.examples.api.catalog.AudioVisual.print",1
+Public Method,"org.apache.commons.digester3.examples.api.catalog.AudioVisual.setCategory",1
+Public Method,"org.apache.commons.digester3.examples.api.catalog.AudioVisual.setDesc",1
+Public Method,"org.apache.commons.digester3.examples.api.catalog.AudioVisual.setName",1
+Public Method,"org.apache.commons.digester3.examples.api.catalog.AudioVisual.setRuntime",1
+Public Method,"org.apache.commons.digester3.examples.api.catalog.AudioVisual.setType",1
+Public Method,"org.apache.commons.digester3.examples.api.catalog.AudioVisual.setYearMade",1
+Public Constructor,"org.apache.commons.digester3.examples.api.catalog.Book.Book",1
+Public Method,"org.apache.commons.digester3.examples.api.catalog.Book.print",1
+Public Method,"org.apache.commons.digester3.examples.api.catalog.Book.setAuthor",1
+Public Method,"org.apache.commons.digester3.examples.api.catalog.Book.setDesc",1
+Public Method,"org.apache.commons.digester3.examples.api.catalog.Book.setTitle",1
+Public Method,"org.apache.commons.digester3.examples.api.catalog.BookFactory.createObject",2
+Public Method,"org.apache.commons.digester3.examples.api.catalog.Catalog.addItem",1
+Public Method,"org.apache.commons.digester3.examples.api.catalog.Catalog.print",2
+Public Abstract Method,"org.apache.commons.digester3.examples.api.catalog.Item.print",0
+Private Static Method,"org.apache.commons.digester3.examples.api.catalog.Main.addRules",1
+Private Static Method,"org.apache.commons.digester3.examples.api.catalog.Main.getInputData",3
+Public Static Method,"org.apache.commons.digester3.examples.api.catalog.Main.main",4
+Private Static Method,"org.apache.commons.digester3.examples.api.catalog.Main.usage",1
+Private Static Method,"org.apache.commons.digester3.examples.api.dbinsert.Main.addRules",1
+Public Static Method,"org.apache.commons.digester3.examples.api.dbinsert.Main.main",4
+Private Static Method,"org.apache.commons.digester3.examples.api.dbinsert.Main.usage",1
+Public Constructor,"org.apache.commons.digester3.examples.api.dbinsert.Row.Column.Column",1
+Public Method,"org.apache.commons.digester3.examples.api.dbinsert.Row.Column.getName",1
+Public Method,"org.apache.commons.digester3.examples.api.dbinsert.Row.Column.getValue",1
+Public Constructor,"org.apache.commons.digester3.examples.api.dbinsert.Row.Row",1
+Public Method,"org.apache.commons.digester3.examples.api.dbinsert.Row.addColumn",1
+Public Method,"org.apache.commons.digester3.examples.api.dbinsert.Row.getColumns",1
+Public Constructor,"org.apache.commons.digester3.examples.api.dbinsert.RowInserterRule.RowInserterRule",1
+Public Method,"org.apache.commons.digester3.examples.api.dbinsert.RowInserterRule.begin",1
+Public Method,"org.apache.commons.digester3.examples.api.dbinsert.RowInserterRule.end",3
+Public Constructor,"org.apache.commons.digester3.examples.api.dbinsert.Table.Table",1
+Public Method,"org.apache.commons.digester3.examples.api.dbinsert.Table.getName",1
+Public Method,"org.apache.commons.digester3.examples.api.dbinsert.Table.setName",1
+Public Method,"org.apache.commons.digester3.examples.api.documentmarkup.Main.addAllText",1
+Public Method,"org.apache.commons.digester3.examples.api.documentmarkup.Main.addBold",1
+Public Method,"org.apache.commons.digester3.examples.api.documentmarkup.Main.addItalic",1
+Public Method,"org.apache.commons.digester3.examples.api.documentmarkup.Main.addSegment",1
+Public Static Method,"org.apache.commons.digester3.examples.api.documentmarkup.Main.main",1
+Public Method,"org.apache.commons.digester3.examples.api.documentmarkup.Main.run",1
+Public Constructor,"org.apache.commons.digester3.examples.api.documentmarkup.MarkupDigester.MarkupDigester",1
+Public Constructor,"org.apache.commons.digester3.examples.api.documentmarkup.MarkupDigester.MarkupDigester",1
+Public Constructor,"org.apache.commons.digester3.examples.api.documentmarkup.MarkupDigester.MarkupDigester",1
+Public Method,"org.apache.commons.digester3.examples.api.documentmarkup.MarkupDigester.characters",1
+Public Method,"org.apache.commons.digester3.examples.api.documentmarkup.MarkupDigester.endElement",1
+Private Method,"org.apache.commons.digester3.examples.api.documentmarkup.MarkupDigester.handleTextSegments",5
+Public Method,"org.apache.commons.digester3.examples.api.documentmarkup.MarkupDigester.startElement",1
+Public Constructor,"org.apache.commons.digester3.examples.api.documentmarkup.SetTextSegmentRule.SetTextSegmentRule",1
+Public Method,"org.apache.commons.digester3.examples.api.documentmarkup.SetTextSegmentRule.textSegment",1
+Public Abstract Method,"org.apache.commons.digester3.examples.api.documentmarkup.TextSegmentHandler.textSegment",0
+Public Method,"org.apache.commons.digester3.examples.plugins.pipeline.CaseTransform.setCase",2
+Public Method,"org.apache.commons.digester3.examples.plugins.pipeline.CaseTransform.transform",2
+Public Static Method,"org.apache.commons.digester3.examples.plugins.pipeline.CompoundTransform.addRules",1
+Public Method,"org.apache.commons.digester3.examples.plugins.pipeline.CompoundTransform.addTransform",1
+Public Method,"org.apache.commons.digester3.examples.plugins.pipeline.CompoundTransform.transform",2
+Private Method,"org.apache.commons.digester3.examples.plugins.pipeline.Pipeline.execute",3
+Public Static Method,"org.apache.commons.digester3.examples.plugins.pipeline.Pipeline.main",4
+Public Method,"org.apache.commons.digester3.examples.plugins.pipeline.Pipeline.setDest",1
+Public Method,"org.apache.commons.digester3.examples.plugins.pipeline.Pipeline.setSource",1
+Public Method,"org.apache.commons.digester3.examples.plugins.pipeline.Pipeline.setTransform",1
+Public Static Method,"org.apache.commons.digester3.examples.plugins.pipeline.SubstituteTransform.addRules",1
+Public Method,"org.apache.commons.digester3.examples.plugins.pipeline.SubstituteTransform.setFrom",1
+Public Method,"org.apache.commons.digester3.examples.plugins.pipeline.SubstituteTransform.setTo",1
+Public Method,"org.apache.commons.digester3.examples.plugins.pipeline.SubstituteTransform.transform",3
+Abstract Method,"org.apache.commons.digester3.examples.plugins.pipeline.Transform.transform",0
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Address.getCity",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Address.getCountry",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Address.getState",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Address.getStreet",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Address.getType",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Address.getZip",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Address.print",2
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Address.setCity",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Address.setCountry",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Address.setState",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Address.setStreet",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Address.setType",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Address.setZip",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Address.toString",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.AddressBook.addPerson",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.AddressBook.print",2
+Public Static Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Main.main",4
+Protected Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Main.main.(Anon_1).loadRules",1
+Private Static Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Main.usage",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Person.addAddress",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Person.addEmail",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Person.print",3
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Person.setCategory",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Person.setId",1
+Public Method,"org.apache.commons.digester3.examples.xmlrules.addressbook.Person.setName",1
+Public Constructor,"org.apache.commons.digester3.plugins.Container.Container",1
+Public Method,"org.apache.commons.digester3.plugins.Container.addChild",1
+Public Method,"org.apache.commons.digester3.plugins.Container.getChildren",1
+Public Static Method,"org.apache.commons.digester3.plugins.ContainerCustomRules.addRules",1
+Public Constructor,"org.apache.commons.digester3.plugins.Declaration.Declaration",1
+Public Constructor,"org.apache.commons.digester3.plugins.Declaration.Declaration",1
+Public Constructor,"org.apache.commons.digester3.plugins.Declaration.Declaration",1
+Public Method,"org.apache.commons.digester3.plugins.Declaration.configure",4
+Public Method,"org.apache.commons.digester3.plugins.Declaration.getId",1
+Public Method,"org.apache.commons.digester3.plugins.Declaration.getPluginClass",1
+Public Method,"org.apache.commons.digester3.plugins.Declaration.init",8
+Public Method,"org.apache.commons.digester3.plugins.Declaration.setId",1
+Public Method,"org.apache.commons.digester3.plugins.Declaration.setProperties",1
+Public Method,"org.apache.commons.digester3.plugins.DumperRule.begin",2
+Public Method,"org.apache.commons.digester3.plugins.DumperRule.body",1
+Public Method,"org.apache.commons.digester3.plugins.DumperRule.end",1
+Abstract Method,"org.apache.commons.digester3.plugins.InitializableRule.postRegisterInit",0
+Static Method,"org.apache.commons.digester3.plugins.LogUtils.getLogger",2
+Public Constructor,"org.apache.commons.digester3.plugins.ObjectTestImpl.ObjectTestImpl",1
+Public Method,"org.apache.commons.digester3.plugins.ObjectTestImpl.getValue",1
+Public Method,"org.apache.commons.digester3.plugins.ObjectTestImpl.setValue",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginAssertionFailure.PluginAssertionFailure",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginAssertionFailure.PluginAssertionFailure",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginAssertionFailure.PluginAssertionFailure",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginConfigurationException.PluginConfigurationException",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginConfigurationException.PluginConfigurationException",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginConfigurationException.PluginConfigurationException",1
+Public Method,"org.apache.commons.digester3.plugins.PluginContext.getPluginClassAttr",1
+Public Method,"org.apache.commons.digester3.plugins.PluginContext.getPluginClassAttrNs",1
+Public Method,"org.apache.commons.digester3.plugins.PluginContext.getPluginIdAttr",1
+Public Method,"org.apache.commons.digester3.plugins.PluginContext.getPluginIdAttrNs",1
+Public Method,"org.apache.commons.digester3.plugins.PluginContext.getRuleFinders",2
+Public Method,"org.apache.commons.digester3.plugins.PluginContext.setPluginClassAttribute",1
+Public Method,"org.apache.commons.digester3.plugins.PluginContext.setPluginIdAttribute",1
+Public Method,"org.apache.commons.digester3.plugins.PluginContext.setRuleFinders",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginCreateRule.PluginCreateRule",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginCreateRule.PluginCreateRule",2
+Public Constructor,"org.apache.commons.digester3.plugins.PluginCreateRule.PluginCreateRule",2
+Public Method,"org.apache.commons.digester3.plugins.PluginCreateRule.begin",13
+Public Method,"org.apache.commons.digester3.plugins.PluginCreateRule.body",1
+Public Method,"org.apache.commons.digester3.plugins.PluginCreateRule.end",1
+Public Method,"org.apache.commons.digester3.plugins.PluginCreateRule.fireBeginMethods",6
+Private Method,"org.apache.commons.digester3.plugins.PluginCreateRule.fireBodyMethods",6
+Public Method,"org.apache.commons.digester3.plugins.PluginCreateRule.fireEndMethods",6
+Public Method,"org.apache.commons.digester3.plugins.PluginCreateRule.getPattern",1
+Public Method,"org.apache.commons.digester3.plugins.PluginCreateRule.postRegisterInit",15
+Public Method,"org.apache.commons.digester3.plugins.PluginCreateRule.setPluginClassAttribute",1
+Public Method,"org.apache.commons.digester3.plugins.PluginCreateRule.setPluginIdAttribute",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginDeclarationRule.PluginDeclarationRule",1
+Public Method,"org.apache.commons.digester3.plugins.PluginDeclarationRule.begin",4
+Public Static Method,"org.apache.commons.digester3.plugins.PluginDeclarationRule.declarePlugin",3
+Public Constructor,"org.apache.commons.digester3.plugins.PluginException.PluginException",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginException.PluginException",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginException.PluginException",1
+Public Method,"org.apache.commons.digester3.plugins.PluginException.getCause",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginInvalidInputException.PluginInvalidInputException",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginInvalidInputException.PluginInvalidInputException",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginInvalidInputException.PluginInvalidInputException",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginManager.PluginManager",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginManager.PluginManager",1
+Public Method,"org.apache.commons.digester3.plugins.PluginManager.addDeclaration",3
+Public Method,"org.apache.commons.digester3.plugins.PluginManager.findLoader",4
+Public Method,"org.apache.commons.digester3.plugins.PluginManager.getDeclarationByClass",2
+Public Method,"org.apache.commons.digester3.plugins.PluginManager.getDeclarationById",2
+Public Constructor,"org.apache.commons.digester3.plugins.PluginRules.PluginRules",1
+Public Constructor,"org.apache.commons.digester3.plugins.PluginRules.PluginRules",1
+Constructor,"org.apache.commons.digester3.plugins.PluginRules.PluginRules",2
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.add",8
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.clear",1
+Method,"org.apache.commons.digester3.plugins.PluginRules.getDecoratedRules",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.getDigester",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.getNamespaceURI",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.getParent",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.getPluginClassAttr",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.getPluginClassAttrNs",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.getPluginIdAttr",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.getPluginIdAttrNs",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.getPluginManager",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.getRuleFinders",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.getRulesFactory",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.match",4
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.rules",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.setDigester",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.setNamespaceURI",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.setPluginClassAttribute",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.setPluginIdAttribute",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.setRuleFinders",1
+Public Method,"org.apache.commons.digester3.plugins.PluginRules.setRulesFactory",1
+Public Abstract Method,"org.apache.commons.digester3.plugins.RuleFinder.findLoader",0
+Public Abstract Method,"org.apache.commons.digester3.plugins.RuleLoader.addRules",0
+Public Abstract Method,"org.apache.commons.digester3.plugins.RulesFactory.newRules",0
+Public Constructor,"org.apache.commons.digester3.plugins.Slider.Slider",1
+Public Static Method,"org.apache.commons.digester3.plugins.Slider.addRangeRules",1
+Public Static Method,"org.apache.commons.digester3.plugins.Slider.addRules",1
+Public Method,"org.apache.commons.digester3.plugins.Slider.getLabel",1
+Public Method,"org.apache.commons.digester3.plugins.Slider.getMax",1
+Public Method,"org.apache.commons.digester3.plugins.Slider.getMin",1
+Public Method,"org.apache.commons.digester3.plugins.Slider.setLabel",1
+Public Method,"org.apache.commons.digester3.plugins.Slider.setMax",1
+Public Method,"org.apache.commons.digester3.plugins.Slider.setMin",1
+Public Method,"org.apache.commons.digester3.plugins.Slider.setRange",1
+Public Constructor,"org.apache.commons.digester3.plugins.TestConfigurablePluginAttributes.MultiContainer.MultiContainer",1
+Public Method,"org.apache.commons.digester3.plugins.TestConfigurablePluginAttributes.MultiContainer.addGadget",1
+Public Method,"org.apache.commons.digester3.plugins.TestConfigurablePluginAttributes.MultiContainer.addWidget",1
+Public Method,"org.apache.commons.digester3.plugins.TestConfigurablePluginAttributes.MultiContainer.getGadgets",1
+Public Method,"org.apache.commons.digester3.plugins.TestConfigurablePluginAttributes.MultiContainer.getWidgets",1
+Public Method,"org.apache.commons.digester3.plugins.TestConfigurablePluginAttributes.testDefaultBehaviour",2
+Public Method,"org.apache.commons.digester3.plugins.TestConfigurablePluginAttributes.testGlobalOverride",2
+Public Method,"org.apache.commons.digester3.plugins.TestConfigurablePluginAttributes.testInstanceOverride",2
+Public Method,"org.apache.commons.digester3.plugins.TestDeclaration.testPredeclaration",2
+Public Method,"org.apache.commons.digester3.plugins.TestDefaultPlugin.testDefaultPlugins1",1
+Public Method,"org.apache.commons.digester3.plugins.TestDefaultPlugin.testDefaultPlugins2",2
+Public Method,"org.apache.commons.digester3.plugins.TestDefaultPlugin.testDefaultPlugins3",2
+Public Method,"org.apache.commons.digester3.plugins.TestDelegate.ignoretestDelegate",2
+Public Method,"org.apache.commons.digester3.plugins.TestDelegate.testDummy",1
+Public Method,"org.apache.commons.digester3.plugins.TestInline.testInlineDeclaration",2
+Public Method,"org.apache.commons.digester3.plugins.TestInline.testLeadingSlash",2
+Public Method,"org.apache.commons.digester3.plugins.TestLocalRules.testLocalRules",2
+Public Method,"org.apache.commons.digester3.plugins.TestLocalRules.testNonStandardLocalRules",2
+Private Method,"org.apache.commons.digester3.plugins.TestRecursion.countWidgets",3
+Public Method,"org.apache.commons.digester3.plugins.TestRecursion.testRecursiveRules",2
+Public Method,"org.apache.commons.digester3.plugins.TestRuleInfo.testRuleInfoAutoDetect",2
+Public Method,"org.apache.commons.digester3.plugins.TestRuleInfo.testRuleInfoExplicitClass",2
+Public Method,"org.apache.commons.digester3.plugins.TestRuleInfo.testRuleInfoExplicitMethod",2
+Public Method,"org.apache.commons.digester3.plugins.TestXmlRuleInfo.testXmlRuleImplicitResource",2
+Public Method,"org.apache.commons.digester3.plugins.TestXmlRuleInfo.testXmlRuleInfoExplicitFile",2
+Public Method,"org.apache.commons.digester3.plugins.TestXmlRuleInfo.testXmlRuleInfoExplicitResource",2
+Public Constructor,"org.apache.commons.digester3.plugins.TextLabel.TextLabel",1
+Public Method,"org.apache.commons.digester3.plugins.TextLabel.getId",1
+Public Method,"org.apache.commons.digester3.plugins.TextLabel.getLabel",1
+Public Method,"org.apache.commons.digester3.plugins.TextLabel.setId",1
+Public Method,"org.apache.commons.digester3.plugins.TextLabel.setLabel",1
+Public Constructor,"org.apache.commons.digester3.plugins.TextLabel2.TextLabel2",1
+Public Method,"org.apache.commons.digester3.plugins.TextLabel2.getId",1
+Public Method,"org.apache.commons.digester3.plugins.TextLabel2.getLabel",1
+Public Method,"org.apache.commons.digester3.plugins.TextLabel2.setId",1
+Public Method,"org.apache.commons.digester3.plugins.TextLabel2.setLabel",1
+Public Static Method,"org.apache.commons.digester3.plugins.TextLabel2RuleInfo.addAltRules",1
+Public Static Method,"org.apache.commons.digester3.plugins.TextLabel2RuleInfo.addRules",1
+Public Static Method,"org.apache.commons.digester3.plugins.Utils.getInputStream",1
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.FinderFromClass.FinderFromClass",1
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.FinderFromClass.FinderFromClass",1
+Public Method,"org.apache.commons.digester3.plugins.strategies.FinderFromClass.findLoader",6
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.FinderFromDfltClass.FinderFromDfltClass",1
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.FinderFromDfltClass.FinderFromDfltClass",1
+Public Method,"org.apache.commons.digester3.plugins.strategies.FinderFromDfltClass.findLoader",3
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.FinderFromDfltMethod.FinderFromDfltMethod",1
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.FinderFromDfltMethod.FinderFromDfltMethod",1
+Public Method,"org.apache.commons.digester3.plugins.strategies.FinderFromDfltMethod.findLoader",2
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.FinderFromDfltResource.FinderFromDfltResource",1
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.FinderFromDfltResource.FinderFromDfltResource",1
+Public Method,"org.apache.commons.digester3.plugins.strategies.FinderFromDfltResource.findLoader",2
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.FinderFromFile.FinderFromFile",1
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.FinderFromFile.FinderFromFile",1
+Public Method,"org.apache.commons.digester3.plugins.strategies.FinderFromFile.findLoader",5
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.FinderFromMethod.FinderFromMethod",1
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.FinderFromMethod.FinderFromMethod",1
+Public Method,"org.apache.commons.digester3.plugins.strategies.FinderFromMethod.findLoader",2
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.FinderFromResource.FinderFromResource",1
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.FinderFromResource.FinderFromResource",1
+Public Method,"org.apache.commons.digester3.plugins.strategies.FinderFromResource.findLoader",3
+Public Static Method,"org.apache.commons.digester3.plugins.strategies.FinderFromResource.loadRules",3
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.FinderSetProperties.FinderSetProperties",1
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.FinderSetProperties.FinderSetProperties",1
+Public Method,"org.apache.commons.digester3.plugins.strategies.FinderSetProperties.findLoader",2
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.LoaderFromClass.LoaderFromClass",2
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.LoaderFromClass.LoaderFromClass",1
+Public Method,"org.apache.commons.digester3.plugins.strategies.LoaderFromClass.addRules",3
+Public Static Method,"org.apache.commons.digester3.plugins.strategies.LoaderFromClass.locateMethod",1
+Public Constructor,"org.apache.commons.digester3.plugins.strategies.LoaderFromStream.LoaderFromStream",5
+Public Method,"org.apache.commons.digester3.plugins.strategies.LoaderFromStream.addRules",2
+Protected Method,"org.apache.commons.digester3.plugins.strategies.LoaderFromStream.addRules.(Anon_1).loadRules",1
+Public Method,"org.apache.commons.digester3.plugins.strategies.LoaderSetProperties.addRules",2
+Public Method,"org.apache.commons.digester3.rss.Channel.addItem",1
+Public Method,"org.apache.commons.digester3.rss.Channel.addSkipDay",1
+Public Method,"org.apache.commons.digester3.rss.Channel.addSkipHour",1
+Public Method,"org.apache.commons.digester3.rss.Channel.findItems",1
+Public Method,"org.apache.commons.digester3.rss.Channel.findSkipDays",1
+Public Method,"org.apache.commons.digester3.rss.Channel.findSkipHours",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getCopyright",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getDescription",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getDocs",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getImage",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getItems",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getLanguage",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getLastBuildDate",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getLink",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getManagingEditor",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getPubDate",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getRating",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getSkipDays",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getSkipHours",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getTextInput",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getTitle",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getVersion",1
+Public Method,"org.apache.commons.digester3.rss.Channel.getWebMaster",1
+Public Method,"org.apache.commons.digester3.rss.Channel.removeItem",1
+Public Method,"org.apache.commons.digester3.rss.Channel.removeSkipDay",1
+Public Method,"org.apache.commons.digester3.rss.Channel.removeSkipHour",1
+Public Method,"org.apache.commons.digester3.rss.Channel.render",2
+Public Method,"org.apache.commons.digester3.rss.Channel.render",2
+Public Method,"org.apache.commons.digester3.rss.Channel.render",1
+Public Method,"org.apache.commons.digester3.rss.Channel.render",1
+Public Method,"org.apache.commons.digester3.rss.Channel.render",1
+Public Method,"org.apache.commons.digester3.rss.Channel.render",16
+Public Method,"org.apache.commons.digester3.rss.Channel.setCopyright",1
+Public Method,"org.apache.commons.digester3.rss.Channel.setDescription",1
+Public Method,"org.apache.commons.digester3.rss.Channel.setDocs",1
+Public Method,"org.apache.commons.digester3.rss.Channel.setImage",1
+Public Method,"org.apache.commons.digester3.rss.Channel.setLanguage",1
+Public Method,"org.apache.commons.digester3.rss.Channel.setLastBuildDate",1
+Public Method,"org.apache.commons.digester3.rss.Channel.setLink",1
+Public Method,"org.apache.commons.digester3.rss.Channel.setManagingEditor",1
+Public Method,"org.apache.commons.digester3.rss.Channel.setPubDate",1
+Public Method,"org.apache.commons.digester3.rss.Channel.setRating",1
+Public Method,"org.apache.commons.digester3.rss.Channel.setTextInput",1
+Public Method,"org.apache.commons.digester3.rss.Channel.setTitle",1
+Public Method,"org.apache.commons.digester3.rss.Channel.setVersion",1
+Public Method,"org.apache.commons.digester3.rss.Channel.setWebMaster",1
+Public Method,"org.apache.commons.digester3.rss.Image.getDescription",1
+Public Method,"org.apache.commons.digester3.rss.Image.getHeight",1
+Public Method,"org.apache.commons.digester3.rss.Image.getLink",1
+Public Method,"org.apache.commons.digester3.rss.Image.getTitle",1
+Public Method,"org.apache.commons.digester3.rss.Image.getURL",1
+Public Method,"org.apache.commons.digester3.rss.Image.getWidth",1
+Method,"org.apache.commons.digester3.rss.Image.render",3
+Public Method,"org.apache.commons.digester3.rss.Image.setDescription",1
+Public Method,"org.apache.commons.digester3.rss.Image.setHeight",1
+Public Method,"org.apache.commons.digester3.rss.Image.setLink",1
+Public Method,"org.apache.commons.digester3.rss.Image.setTitle",1
+Public Method,"org.apache.commons.digester3.rss.Image.setURL",1
+Public Method,"org.apache.commons.digester3.rss.Image.setWidth",1
+Public Method,"org.apache.commons.digester3.rss.Item.getDescription",1
+Public Method,"org.apache.commons.digester3.rss.Item.getLink",1
+Public Method,"org.apache.commons.digester3.rss.Item.getTitle",1
+Method,"org.apache.commons.digester3.rss.Item.render",2
+Public Method,"org.apache.commons.digester3.rss.Item.setDescription",1
+Public Method,"org.apache.commons.digester3.rss.Item.setLink",1
+Public Method,"org.apache.commons.digester3.rss.Item.setTitle",1
+Protected Method,"org.apache.commons.digester3.rss.RSSDigester.configure",2
+Public Method,"org.apache.commons.digester3.rss.RSSDigester.getChannelClass",1
+Public Method,"org.apache.commons.digester3.rss.RSSDigester.getImageClass",1
+Public Method,"org.apache.commons.digester3.rss.RSSDigester.getItemClass",1
+Public Method,"org.apache.commons.digester3.rss.RSSDigester.getTextInputClass",1
+Public Static Method,"org.apache.commons.digester3.rss.RSSDigester.main",3
+Public Generic Method,"org.apache.commons.digester3.rss.RSSDigester.parse",1
+Public Generic Method,"org.apache.commons.digester3.rss.RSSDigester.parse",1
+Public Generic Method,"org.apache.commons.digester3.rss.RSSDigester.parse",1
+Public Generic Method,"org.apache.commons.digester3.rss.RSSDigester.parse",1
+Public Method,"org.apache.commons.digester3.rss.RSSDigester.setChannelClass",1
+Public Method,"org.apache.commons.digester3.rss.RSSDigester.setImageClass",1
+Public Method,"org.apache.commons.digester3.rss.RSSDigester.setItemClass",1
+Public Method,"org.apache.commons.digester3.rss.RSSDigester.setTextInputClass",1
+Public Method,"org.apache.commons.digester3.rss.TextInput.getDescription",1
+Public Method,"org.apache.commons.digester3.rss.TextInput.getLink",1
+Public Method,"org.apache.commons.digester3.rss.TextInput.getName",1
+Public Method,"org.apache.commons.digester3.rss.TextInput.getTitle",1
+Method,"org.apache.commons.digester3.rss.TextInput.render",1
+Public Method,"org.apache.commons.digester3.rss.TextInput.setDescription",1
+Public Method,"org.apache.commons.digester3.rss.TextInput.setLink",1
+Public Method,"org.apache.commons.digester3.rss.TextInput.setName",1
+Public Method,"org.apache.commons.digester3.rss.TextInput.setTitle",1
+Public Constructor,"org.apache.commons.digester3.substitution.CompoundSubstitutor.CompoundSubstitutor",3
+Public Method,"org.apache.commons.digester3.substitution.CompoundSubstitutor.substitute",1
+Public Method,"org.apache.commons.digester3.substitution.CompoundSubstitutor.substitute",1
+Public Constructor,"org.apache.commons.digester3.substitution.CompoundSubstitutorTestCase.SubstitutorStub.SubstitutorStub",1
+Public Method,"org.apache.commons.digester3.substitution.CompoundSubstitutorTestCase.SubstitutorStub.substitute",1
+Public Method,"org.apache.commons.digester3.substitution.CompoundSubstitutorTestCase.SubstitutorStub.substitute",1
+Private Method,"org.apache.commons.digester3.substitution.CompoundSubstitutorTestCase.areEqual",3
+Public Method,"org.apache.commons.digester3.substitution.CompoundSubstitutorTestCase.setUp",1
+Public Method,"org.apache.commons.digester3.substitution.CompoundSubstitutorTestCase.testChaining",1
+Public Method,"org.apache.commons.digester3.substitution.CompoundSubstitutorTestCase.testConstructors",4
+Public Method,"org.apache.commons.digester3.substitution.MultiVariableExpander.addSource",1
+Public Method,"org.apache.commons.digester3.substitution.MultiVariableExpander.expand",2
+Public Method,"org.apache.commons.digester3.substitution.MultiVariableExpander.expand",6
+Public Method,"org.apache.commons.digester3.substitution.VariableAttributes.getIndex",1
+Public Method,"org.apache.commons.digester3.substitution.VariableAttributes.getIndex",1
+Public Method,"org.apache.commons.digester3.substitution.VariableAttributes.getLength",1
+Public Method,"org.apache.commons.digester3.substitution.VariableAttributes.getLocalName",1
+Public Method,"org.apache.commons.digester3.substitution.VariableAttributes.getQName",1
+Public Method,"org.apache.commons.digester3.substitution.VariableAttributes.getType",1
+Public Method,"org.apache.commons.digester3.substitution.VariableAttributes.getType",1
+Public Method,"org.apache.commons.digester3.substitution.VariableAttributes.getType",1
+Public Method,"org.apache.commons.digester3.substitution.VariableAttributes.getURI",1
+Public Method,"org.apache.commons.digester3.substitution.VariableAttributes.getValue",5
+Public Method,"org.apache.commons.digester3.substitution.VariableAttributes.getValue",2
+Public Method,"org.apache.commons.digester3.substitution.VariableAttributes.getValue",2
+Public Method,"org.apache.commons.digester3.substitution.VariableAttributes.init",1
+Abstract Method,"org.apache.commons.digester3.substitution.VariableExpander.expand",0
+Public Method,"org.apache.commons.digester3.substitution.VariableExpansionTestCase.addProperty",1
+Public Method,"org.apache.commons.digester3.substitution.VariableExpansionTestCase.addSimpleTestBean",1
+Private Method,"org.apache.commons.digester3.substitution.VariableExpansionTestCase.createDigesterThatCanDoAnt",1
+Public Method,"org.apache.commons.digester3.substitution.VariableExpansionTestCase.testBodyExpansion",1
+Public Method,"org.apache.commons.digester3.substitution.VariableExpansionTestCase.testExpansionException",2
+Public Method,"org.apache.commons.digester3.substitution.VariableExpansionTestCase.testExpansionOfPropertyInProperty",1
+Public Method,"org.apache.commons.digester3.substitution.VariableExpansionTestCase.testExpansionWithMultipleSources",1
+Public Method,"org.apache.commons.digester3.substitution.VariableExpansionTestCase.testExpansionWithMutableSource",1
+Public Method,"org.apache.commons.digester3.substitution.VariableExpansionTestCase.testExpansionWithNoSource",1
+Public Method,"org.apache.commons.digester3.substitution.VariableExpansionTestCase.testNoExpansion",1
+Public Constructor,"org.apache.commons.digester3.substitution.VariableSubstitutor.VariableSubstitutor",1
+Public Constructor,"org.apache.commons.digester3.substitution.VariableSubstitutor.VariableSubstitutor",1
+Public Method,"org.apache.commons.digester3.substitution.VariableSubstitutor.substitute",2
+Public Method,"org.apache.commons.digester3.substitution.VariableSubstitutor.substitute",2
+Public Constructor,"org.apache.commons.digester3.xmlrules.AbstractXmlMethodRule.AbstractXmlMethodRule",1
+Protected Abstract Method,"org.apache.commons.digester3.xmlrules.AbstractXmlMethodRule.bindRule",0
+Protected Method,"org.apache.commons.digester3.xmlrules.AbstractXmlMethodRule.bindRule",1
+Public Constructor,"org.apache.commons.digester3.xmlrules.AbstractXmlRule.AbstractXmlRule",1
+Public Method,"org.apache.commons.digester3.xmlrules.AbstractXmlRule.begin",1
+Protected Abstract Method,"org.apache.commons.digester3.xmlrules.AbstractXmlRule.bindRule",0
+Public Constructor,"org.apache.commons.digester3.xmlrules.BeanPropertySetterRule.BeanPropertySetterRule",1
+Protected Method,"org.apache.commons.digester3.xmlrules.BeanPropertySetterRule.bindRule",2
+Public Method,"org.apache.commons.digester3.xmlrules.BeanPropertySetterRuleTestCase.extractPropertyNameFromAttribute",1
+Protected Method,"org.apache.commons.digester3.xmlrules.BeanPropertySetterRuleTestCase.extractPropertyNameFromAttribute.(Anon_1).loadRules",1
+Public Constructor,"org.apache.commons.digester3.xmlrules.CallMethodRule.CallMethodRule",1
+Protected Method,"org.apache.commons.digester3.xmlrules.CallMethodRule.bindRule",6
+Public Constructor,"org.apache.commons.digester3.xmlrules.CallParamRule.CallParamRule",1
+Protected Method,"org.apache.commons.digester3.xmlrules.CallParamRule.bindRule",5
+Public Method,"org.apache.commons.digester3.xmlrules.CallParamTestObject.duo",1
+Public Method,"org.apache.commons.digester3.xmlrules.CallParamTestObject.getLeft",1
+Public Method,"org.apache.commons.digester3.xmlrules.CallParamTestObject.getMiddle",1
+Public Method,"org.apache.commons.digester3.xmlrules.CallParamTestObject.getRight",1
+Public Method,"org.apache.commons.digester3.xmlrules.CallParamTestObject.setLeft",1
+Public Method,"org.apache.commons.digester3.xmlrules.CallParamTestObject.setMiddle",1
+Public Method,"org.apache.commons.digester3.xmlrules.CallParamTestObject.setRight",1
+Public Method,"org.apache.commons.digester3.xmlrules.CallParamTestObject.toString",1
+Public Method,"org.apache.commons.digester3.xmlrules.CallParamTestObject.triple",1
+Public Method,"org.apache.commons.digester3.xmlrules.DigesterPatternStackTest.setUp",1
+Public Method,"org.apache.commons.digester3.xmlrules.DigesterPatternStackTest.test1",1
+Public Method,"org.apache.commons.digester3.xmlrules.DigesterPatternStackTest.test2",1
+Public Method,"org.apache.commons.digester3.xmlrules.DigesterPatternStackTest.test3",1
+Public Method,"org.apache.commons.digester3.xmlrules.DigesterPatternStackTest.test4",1
+Public Method,"org.apache.commons.digester3.xmlrules.DigesterPatternStackTest.test5",1
+Public Method,"org.apache.commons.digester3.xmlrules.DigesterPatternStackTest.test6",1
+Public Method,"org.apache.commons.digester3.xmlrules.DigesterPatternStackTest.test7",1
+Protected Method,"org.apache.commons.digester3.xmlrules.DigesterRulesSourceTestImpl.configure",1
+Public Method,"org.apache.commons.digester3.xmlrules.Entry.getContent",1
+Public Method,"org.apache.commons.digester3.xmlrules.Entry.getId",1
+Public Method,"org.apache.commons.digester3.xmlrules.Entry.getLink",1
+Public Method,"org.apache.commons.digester3.xmlrules.Entry.getTitle",1
+Public Method,"org.apache.commons.digester3.xmlrules.Entry.getUpdated",1
+Public Method,"org.apache.commons.digester3.xmlrules.Entry.setContent",1
+Public Method,"org.apache.commons.digester3.xmlrules.Entry.setId",1
+Public Method,"org.apache.commons.digester3.xmlrules.Entry.setLink",1
+Public Method,"org.apache.commons.digester3.xmlrules.Entry.setTitle",1
+Public Method,"org.apache.commons.digester3.xmlrules.Entry.setUpdated",1
+Public Method,"org.apache.commons.digester3.xmlrules.Entry.toString",1
+Public Constructor,"org.apache.commons.digester3.xmlrules.FactoryCreateRule.FactoryCreateRule",1
+Protected Method,"org.apache.commons.digester3.xmlrules.FactoryCreateRule.bindRule",1
+Public Method,"org.apache.commons.digester3.xmlrules.Feed.addAuthor",1
+Public Method,"org.apache.commons.digester3.xmlrules.Feed.addEntry",1
+Public Method,"org.apache.commons.digester3.xmlrules.Feed.getAuthors",1
+Public Method,"org.apache.commons.digester3.xmlrules.Feed.getEntries",1
+Public Method,"org.apache.commons.digester3.xmlrules.Feed.getId",1
+Public Method,"org.apache.commons.digester3.xmlrules.Feed.getLink",1
+Public Method,"org.apache.commons.digester3.xmlrules.Feed.getTitle",1
+Public Method,"org.apache.commons.digester3.xmlrules.Feed.getUpdated",1
+Public Method,"org.apache.commons.digester3.xmlrules.Feed.setId",1
+Public Method,"org.apache.commons.digester3.xmlrules.Feed.setLink",1
+Public Method,"org.apache.commons.digester3.xmlrules.Feed.setTitle",1
+Public Method,"org.apache.commons.digester3.xmlrules.Feed.setUpdated",1
+Public Method,"org.apache.commons.digester3.xmlrules.Feed.toString",1
+Private Method,"org.apache.commons.digester3.xmlrules.FromXmlRuleSetTest.createRules",1
+Private Method,"org.apache.commons.digester3.xmlrules.FromXmlRuleSetTest.createRules",1
+Protected Method,"org.apache.commons.digester3.xmlrules.FromXmlRuleSetTest.createRules.(Anon_1).loadRules",1
+Protected Method,"org.apache.commons.digester3.xmlrules.FromXmlRuleSetTest.createRules.(Anon_2).loadRules",1
+Public Method,"org.apache.commons.digester3.xmlrules.FromXmlRuleSetTest.testBasePath",1
+Public Method,"org.apache.commons.digester3.xmlrules.FromXmlRuleSetTest.testCallParamRule",1
+Public Method,"org.apache.commons.digester3.xmlrules.FromXmlRuleSetTest.testCreateDigester",1
+Public Method,"org.apache.commons.digester3.xmlrules.FromXmlRuleSetTest.testFactoryCreateRule",2
+Public Method,"org.apache.commons.digester3.xmlrules.FromXmlRuleSetTest.testFactoryIgnoreCreateRule",2
+Public Method,"org.apache.commons.digester3.xmlrules.FromXmlRuleSetTest.testFactoryNotIgnoreCreateRule",2
+Public Method,"org.apache.commons.digester3.xmlrules.FromXmlRuleSetTest.testInputSourceLoader",1
+Public Method,"org.apache.commons.digester3.xmlrules.FromXmlRuleSetTest.testLoad1",3
+Public Method,"org.apache.commons.digester3.xmlrules.FromXmlRuleSetTest.testLoad2",1
+Public Method,"org.apache.commons.digester3.xmlrules.FromXmlRuleSetTest.testSetCustomProperties",2
+Protected Method,"org.apache.commons.digester3.xmlrules.FromXmlRulesModule.configure",4
+Public Method,"org.apache.commons.digester3.xmlrules.FromXmlRulesModule.getSystemIds",1
+Protected Abstract Method,"org.apache.commons.digester3.xmlrules.FromXmlRulesModule.loadRules",0
+Protected Method,"org.apache.commons.digester3.xmlrules.FromXmlRulesModule.loadXMLRules",3
+Protected Method,"org.apache.commons.digester3.xmlrules.FromXmlRulesModule.loadXMLRules",3
+Protected Method,"org.apache.commons.digester3.xmlrules.FromXmlRulesModule.loadXMLRules",3
+Protected Method,"org.apache.commons.digester3.xmlrules.FromXmlRulesModule.loadXMLRules",2
+Protected Method,"org.apache.commons.digester3.xmlrules.FromXmlRulesModule.loadXMLRules",2
+Protected Method,"org.apache.commons.digester3.xmlrules.FromXmlRulesModule.loadXMLRules",3
+Protected Method,"org.apache.commons.digester3.xmlrules.FromXmlRulesModule.loadXMLRulesFromText",2
+Protected Method,"org.apache.commons.digester3.xmlrules.FromXmlRulesModule.useRootPath",1
+Public Constructor,"org.apache.commons.digester3.xmlrules.IncludeRule.IncludeRule",1
+Public Method,"org.apache.commons.digester3.xmlrules.IncludeRule.begin",10
+Protected Method,"org.apache.commons.digester3.xmlrules.IncludeRule.begin.(Anon_1).loadRules",1
+Private Method,"org.apache.commons.digester3.xmlrules.IncludeRule.install",1
+Protected Method,"org.apache.commons.digester3.xmlrules.IncludeTest.TestDigesterRulesModule.configure",1
+Public Method,"org.apache.commons.digester3.xmlrules.IncludeTest.TestDigesterRulesModule.configure.(Anon_1).body",1
+Public Method,"org.apache.commons.digester3.xmlrules.IncludeTest.testBasicInclude",1
+Protected Method,"org.apache.commons.digester3.xmlrules.IncludeTest.testBasicInclude.(Anon_2).loadRules",1
+Public Method,"org.apache.commons.digester3.xmlrules.IncludeTest.testCircularInclude",1
+Protected Method,"org.apache.commons.digester3.xmlrules.IncludeTest.testCircularInclude.(Anon_3).loadRules",1
+Public Constructor,"org.apache.commons.digester3.xmlrules.NameSpaceURIRulesBinder.NameSpaceURIRulesBinder",1
+Public Method,"org.apache.commons.digester3.xmlrules.NameSpaceURIRulesBinder.addError",1
+Public Method,"org.apache.commons.digester3.xmlrules.NameSpaceURIRulesBinder.addError",1
+Public Method,"org.apache.commons.digester3.xmlrules.NameSpaceURIRulesBinder.addNamespaceURI",1
+Public Method,"org.apache.commons.digester3.xmlrules.NameSpaceURIRulesBinder.forPattern",1
+Public Method,"org.apache.commons.digester3.xmlrules.NameSpaceURIRulesBinder.getContextClassLoader",1
+Public Method,"org.apache.commons.digester3.xmlrules.NameSpaceURIRulesBinder.install",1
+Public Method,"org.apache.commons.digester3.xmlrules.NameSpaceURIRulesBinder.removeNamespaceURI",1
+Public Constructor,"org.apache.commons.digester3.xmlrules.NodeCreateRule.NodeCreateRule",1
+Protected Method,"org.apache.commons.digester3.xmlrules.NodeCreateRule.bindRule",4
+Public Constructor,"org.apache.commons.digester3.xmlrules.ObjectCreateRule.ObjectCreateRule",1
+Protected Method,"org.apache.commons.digester3.xmlrules.ObjectCreateRule.bindRule",5
+Public Constructor,"org.apache.commons.digester3.xmlrules.ObjectParamRule.ObjectParamRule",1
+Protected Method,"org.apache.commons.digester3.xmlrules.ObjectParamRule.bindRule",3
+Public Constructor,"org.apache.commons.digester3.xmlrules.ObjectTestImpl.ObjectTestImpl",1
+Public Method,"org.apache.commons.digester3.xmlrules.ObjectTestImpl.add",1
+Public Method,"org.apache.commons.digester3.xmlrules.ObjectTestImpl.getLongValue",1
+Public Method,"org.apache.commons.digester3.xmlrules.ObjectTestImpl.getMapValue",1
+Public Method,"org.apache.commons.digester3.xmlrules.ObjectTestImpl.getProperty",1
+Public Method,"org.apache.commons.digester3.xmlrules.ObjectTestImpl.isPushed",1
+Public Method,"org.apache.commons.digester3.xmlrules.ObjectTestImpl.push",1
+Public Method,"org.apache.commons.digester3.xmlrules.ObjectTestImpl.setLongValue",1
+Public Method,"org.apache.commons.digester3.xmlrules.ObjectTestImpl.setMapValue",1
+Public Method,"org.apache.commons.digester3.xmlrules.ObjectTestImpl.setProperty",1
+Public Method,"org.apache.commons.digester3.xmlrules.ObjectTestImpl.setStringValue",1
+Public Method,"org.apache.commons.digester3.xmlrules.ObjectTestImpl.setValue",1
+Public Method,"org.apache.commons.digester3.xmlrules.ObjectTestImpl.toString",2
+Public Constructor,"org.apache.commons.digester3.xmlrules.PatternRule.PatternRule",1
+Public Constructor,"org.apache.commons.digester3.xmlrules.PatternRule.PatternRule",1
+Public Method,"org.apache.commons.digester3.xmlrules.PatternRule.begin",2
+Public Method,"org.apache.commons.digester3.xmlrules.PatternRule.end",2
+Protected Method,"org.apache.commons.digester3.xmlrules.PatternRule.getMatchingPattern",1
+Public Method,"org.apache.commons.digester3.xmlrules.PatternStack.toString",4
+Public Constructor,"org.apache.commons.digester3.xmlrules.PrefixedRulesBinder.PrefixedRulesBinder",1
+Public Method,"org.apache.commons.digester3.xmlrules.PrefixedRulesBinder.addError",1
+Public Method,"org.apache.commons.digester3.xmlrules.PrefixedRulesBinder.addError",1
+Public Method,"org.apache.commons.digester3.xmlrules.PrefixedRulesBinder.forPattern",2
+Public Method,"org.apache.commons.digester3.xmlrules.PrefixedRulesBinder.getContextClassLoader",1
+Public Method,"org.apache.commons.digester3.xmlrules.PrefixedRulesBinder.install",1
+Public Constructor,"org.apache.commons.digester3.xmlrules.SetNamespaceURIRule.SetNamespaceURIRule",1
+Public Method,"org.apache.commons.digester3.xmlrules.SetNamespaceURIRule.begin",1
+Public Method,"org.apache.commons.digester3.xmlrules.SetNamespaceURIRule.end",1
+Public Method,"org.apache.commons.digester3.xmlrules.SetNamespaceURITestCase.atomWithNamespaceParse",1
+Protected Method,"org.apache.commons.digester3.xmlrules.SetNamespaceURITestCase.atomWithNamespaceParse.(Anon_1).loadRules",1
+Public Method,"org.apache.commons.digester3.xmlrules.SetNestedPropertiesAliasRule.begin",1
+Public Method,"org.apache.commons.digester3.xmlrules.SetNestedPropertiesIgnoreRule.begin",1
+Public Constructor,"org.apache.commons.digester3.xmlrules.SetNestedPropertiesRule.SetNestedPropertiesRule",1
+Protected Method,"org.apache.commons.digester3.xmlrules.SetNestedPropertiesRule.bindRule",1
+Public Method,"org.apache.commons.digester3.xmlrules.SetNestedPropertiesRule.end",1
+Public Constructor,"org.apache.commons.digester3.xmlrules.SetNextRule.SetNextRule",1
+Protected Method,"org.apache.commons.digester3.xmlrules.SetNextRule.bindRule",2
+Public Method,"org.apache.commons.digester3.xmlrules.SetPropertiesAliasRule.begin",1
+Public Method,"org.apache.commons.digester3.xmlrules.SetPropertiesIgnoreRule.begin",1
+Public Constructor,"org.apache.commons.digester3.xmlrules.SetPropertiesRule.SetPropertiesRule",1
+Protected Method,"org.apache.commons.digester3.xmlrules.SetPropertiesRule.bindRule",1
+Public Method,"org.apache.commons.digester3.xmlrules.SetPropertiesRule.end",1
+Public Constructor,"org.apache.commons.digester3.xmlrules.SetPropertyRule.SetPropertyRule",1
+Protected Method,"org.apache.commons.digester3.xmlrules.SetPropertyRule.bindRule",1
+Public Constructor,"org.apache.commons.digester3.xmlrules.SetRootRule.SetRootRule",1
+Protected Method,"org.apache.commons.digester3.xmlrules.SetRootRule.bindRule",2
+Public Constructor,"org.apache.commons.digester3.xmlrules.SetTopRule.SetTopRule",1
+Protected Method,"org.apache.commons.digester3.xmlrules.SetTopRule.bindRule",2
+Public Method,"org.apache.commons.digester3.xmlrules.ThrowExceptionCreationFactory.createObject",1
+Public Constructor,"org.apache.commons.digester3.xmlrules.WithMemoryRulesBinder.WithMemoryRulesBinder",1
+Public Method,"org.apache.commons.digester3.xmlrules.WithMemoryRulesBinder.addError",1
+Public Method,"org.apache.commons.digester3.xmlrules.WithMemoryRulesBinder.addError",1
+Public Method,"org.apache.commons.digester3.xmlrules.WithMemoryRulesBinder.forPattern",1
+Public Method,"org.apache.commons.digester3.xmlrules.WithMemoryRulesBinder.getContextClassLoader",1
+Public Method,"org.apache.commons.digester3.xmlrules.WithMemoryRulesBinder.getIncludedFiles",1
+Public Method,"org.apache.commons.digester3.xmlrules.WithMemoryRulesBinder.getPatternStack",1
+Public Method,"org.apache.commons.digester3.xmlrules.WithMemoryRulesBinder.install",1
+Public Constructor,"org.apache.commons.digester3.xmlrules.XmlRulesModule.XmlRulesModule",1
+Public Method,"org.apache.commons.digester3.xmlrules.XmlRulesModule.configure",4
+Protected Method,"org.apache.commons.digester3.xmlrules.XmlRulesModule.forPattern",1
+File,"overview.html",0
+File,"package.html",0
+File,"plugins.xml",0
+File,"pom.xml",0
+File,"pom.xml",0
+File,"pom.xml",0
+File,"pom.xml",0
+File,"pom.xml",0
+File,"pom.xml",0
+File,"pom.xml",0
+File,"pom.xml",0
+File,"pom.xml",0
+File,"pom.xml",0
+File,"pom.xml",0
+File,"rss-example.xml",0
+File,"site.xml",0
+File,"src.xml",0
+File,"substitute.xml",0
+File,"substitution.xml",0
+File,"test-call-param-rules.xml",0
+File,"test-call-param-rules.xml",0
+File,"test-node-create-rules-input.xml",0
+File,"test-node-create-rules-input.xml",0
+File,"test-node-create-rules.xml",0
+File,"test-node-create-rules.xml",0
+File,"test.xml",0
+File,"test.xml",0
+File,"test1.xml",0
+File,"test1.xml",0
+File,"test2.xml",0
+File,"test2.xml",0
+File,"test3.xml",0
+File,"test3.xml",0
+File,"test4a.xml",0
+File,"test4a.xml",0
+File,"test4b.xml",0
+File,"test4b.xml",0
+File,"test5a.xml",0
+File,"test5a.xml",0
+File,"test5b.xml",0
+File,"test5b.xml",0
+File,"test5c.xml",0
+File,"test5c.xml",0
+File,"test6.xml",0
+File,"test6.xml",0
+File,"test7.xml",0
+File,"test7.xml",0
+File,"testCircularRules.xml",0
+File,"testCircularRules.xml",0
+File,"testPropertyAliasRules.xml",0
+File,"testPropertyAliasRules.xml",0
+File,"testfactory.xml",0
+File,"testfactory.xml",0
+File,"testfactoryignore.xml",0
+File,"testfactoryignore.xml",0
+File,"testfactorynoignore.xml",0
+File,"testfactorynoignore.xml",0
+File,"testrules.xml",0
+File,"testrules.xml",0
+File,"testrulesinclude.xml",0
+File,"testrulesinclude.xml",0
+File,"uppercase.xml",0
+File,"xmlcontent.xml",0
+File,"xmlcontent.xml",0
+File,"xmlrules.xml",0
+File,"xmlrules.xml",0
+File,"xmlrules1.xml",0
+File,"xmlrules1.xml",0
+File,"xmlrules2.xml",0
+File,"xmlrules2.xml",0
