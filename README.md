@@ -23,6 +23,8 @@
  It will give the data as shown in the screenshots for total number of source code lines.
  For number of bugs we have used Jira.
  
+ Correlation(Python Script)
+ numpy, pandas, scipy
 
 3)Team F:
   Uchechukwu Iroegbu , Adeola Adeniji, Navjot Kaur, Mohammad Ali Hasheminezhad, Bhavpreet Kaur       
