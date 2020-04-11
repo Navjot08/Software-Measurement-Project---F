@@ -11,7 +11,8 @@
    - **git log version1..version2 --pretty=format:\"%an\" -- shortstat #{ARGV.join(' ')}**
 
  6. Metric 6 -(Post Release Defect Density): It has the screenshots of  the file that records the number of bugs and and the version size(CLOC) and this gives the defect density for each version of the selected project. 
- POM FIles: It contains Pom Files for each of the project used for extracting Data for Code Coverage.
+ 
+ 7. POM FIles: It contains Pom Files for each of the project used for extracting Data for Code Coverage.
   
 2)Requirements for running the script
  For Post Release Defect Density, we need to run  the following commandon Mac Terminal :
